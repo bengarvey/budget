@@ -1,0 +1,6 @@
+*.sql*
+config-brett.yml
+config-ben.yml
+data2/*
+data/data*
+*.swp*

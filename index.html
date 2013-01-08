@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mandel for Controller Bulldog Budget</title>
+    
+    <script src="inc/d3.v2.js"></script>
+    <script src="inc/accounting.js"></script>
+    <script src="inc/jquery.js"></script>
+    <script src="inc/tt.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="inc/tt.css"> 
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-responsive.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+    
+    <script src="inc/jquery.activity-indicator.js"></script> 
+    <script src="bootstrap/js/bootstrap.js"></script>
+    <script src="bootstrap/js/bootstrap-transition.js"></script>
+    <script src="bootstrap/js/bootstrap-tooltip.js"></script>
+    <style>
+      @import url("inc/style.css");
+
+      .disclaimer {
+        color:  #999;
+        font-size:  70%;
+      }
+      
+      .about {
+        color:  #555;
+        font-size:  80%;
+      }
+    
+      .navigate {
+        font-size: 100%;
+        margin-left:  3px;  
+      }
+
+      .budgetinfo {
+        position: absolute;
+        top:  50px;
+        left:  800px;
+        background-color:  #bce6fa;
+        font-size: 80%; 
+        padding:  10px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        border: 1px solid #DDDDDD;
+      }
+   
+      ul .nav .nav-pills {
+        margin-bottom: 0px;
+      }
+ 
+      #chart {
+        width: 960px;
+        height:500px;
+      }
+
+      text {
+        pointer-events: none;
+      }
+
+      .grandparent text {
+        font-weight: normal;
+        font-size: 150%;
+        color:  #DDD;
+      }
+      
+      #resultstable {
+        font-size:  80%;
+        
+      }
+  
+      rect {
+        fill: none;
+        stroke: #bce6fa;
+      }
+
+      rect.parent,
+      .grandparent rect {
+        stroke-width: 5px;
+      }
+
+      rect.parent:hover {
+          outline: 1px solid #883;
+      }
+
+      .grandparent rect {
+        fill: #bce6fa;
+      }
+
+      .children rect.parent,
+      .grandparent rect {
+        cursor: pointer;
+      }
+
+      rect.parent {
+        pointer-events: all;
+      }
+
+      .children:hover rect.child,
+      .grandparent:hover rect {
+        fill: #EEE;
+        
+      }
+    </style>
+
+    <script>
+	
+	  // Detect for ie
+	  var ie = ( function(){
+                var undef,
+                    v = 3,
+                    div = document.createElement('div'),
+                    all = div.getElementsByTagName('i');
+
+                while (
+                  div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
+                  all[0]
+                );
+
+                return v > 4 ? v : undef;
+
+          }());	
+      
+      function init() {
+     
+	    // Alert users if they are using ie 8 or lower
+	    if (ie < 9) {	
+		    alert("This site requires a modern web browser.  Please install Google Chrome, Mozilla Firefox, Apple Safari, or Internet Explorer 9 or higher.");
+	    }
+		   
+      var margin = {top: 30, right: 0, bottom: 0, left: 0},
+          width = 960,
+          height = 500 - margin.top - margin.bottom,
+          formatNumber = d3.format(",d"),
+          transitioning;
+
+      // We used to use this when using d3's standard color schemes
+      //var color = d3.scale.category20();
+
+      var color = function(id) {
+
+          c = {'100' : '#B2C2D1', '200' : '#F76e4a', '300' : '#efdfbb', '400' : '#335d6b', '500' : '#7aBa7f', '600' : '#5CADFF', '700' : '#88898b', '800' : '#FF99CC', '900' : '#99FFCC', '1000' : '#FF8F1F'};
+          rc = c[id];
+          
+          // Give it a d3 color in case we missed something
+          if (rc == "") {
+            rc = d3.scale.category20();
+          }
+
+          return rc;
+      }
+
+      var x = d3.scale.linear()
+          .domain([0, width])
+          .range([0, width]);
+
+      var y = d3.scale.linear()
+          .domain([0, height])
+          .range([0, height]);
+
+      var treemap = d3.layout.treemap()
+          .children(function(d, depth) { return depth ? null : d.children; })
+          .sort(function(a, b) { return a.value - b.value; })
+          .ratio(height / width * 0.5 * (1 + Math.sqrt(5)))
+          .round(false);
+
+      var svg = d3.select("#chart").append("svg")
+          .attr("width", width + margin.left + margin.right)
+          .attr("height", height + margin.bottom + margin.top)
+          .style("margin-left", -margin.left + "px")
+          .style("margin.right", -margin.right + "px")
+        .append("g")
+          .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+          .style("shape-rendering", "crispEdges");
+
+      var grandparent = svg.append("g")
+          .attr("class", "grandparent");
+
+      grandparent.append("rect")
+          .attr("y", -margin.top)
+          .attr("width", width)
+          .attr("height", margin.top);
+      grandparent.append("text")
+          .attr("fill", "#777")
+          .style("letter-spacing", "+0.05em")
+          .attr("x", 6)
+          .attr("y",  margin.top - 60)
+          .attr("dy", "0.5em");
+	  
+      // Initialize tooltips
+      $(document).ready(function () {
+	$("[rel=tooltip]").tooltip();
+      });
+
+      d3.json("data/all.json", function(root) {
+
+        initialize(root);
+        accumulate(root);
+        layout(root);
+        display(root);
+
+        function initialize(root) {
+          root.x = root.y = 0;
+          root.dx = width;
+          root.dy = height;
+          root.depth = 0;
+        }
+
+        // Aggregate the values for internal nodes. This is normally done by the
+        // treemap layout, but not here because of our custom implementation.
+        function accumulate(d) {
+          return d.children
+              ? d.value = d.children.reduce(function(p, v) { return p + accumulate(v); }, 0)
+              : d.value;
+        }
+
+        // Compute the treemap layout recursively such that each group of siblings
+        // uses the same size (1x1) rather than the dimensions of the parent cell.
+        // This optimizes the layout for the current zoom state. Note that a wrapper
+        // object is created for the parent node for each group of siblings so that
+        // the parent's dimensions are not discarded as we recurse. Since each group
+        // of sibling was laid out in 1x1, we must rescale to fit using absolute
+        // coordinates. This lets us use a viewport to zoom.
+        function layout(d) {
+          if (d.children) {
+            treemap.nodes({children: d.children});
+            d.children.forEach(function(c) {
+              c.x = d.x + c.x * d.dx;
+              c.y = d.y + c.y * d.dy;
+              c.dx *= d.dx;
+              c.dy *= d.dy;
+              c.parent = d;
+              layout(c);
+            });
+          }
+        }
+
+        function display(d) {
+         
+          grandparent
+              .datum(d.parent)
+              .on("click", transition)
+            .select("text")
+              .attr("dy", "1.5em")
+              .text(name(d) + " : " + accounting.formatMoney(d.value));
+
+          var g1 = svg.insert("g", ".grandparent")
+              .datum(d)
+              .attr("class", "depth");
+
+          var g = g1.selectAll("g")
+              .data(d.children)
+            .enter().append("g");
+
+          g.filter(function(d) { return d.children; })
+              .classed("children", true)
+              .on("click", transition);
+
+          g.selectAll(".child")
+              .data(function(d) { return d.children || [d]; })
+            .enter().append("rect")
+              .attr("class", "child")
+              .call(rect);
+
+          g.append("rect")
+              .attr("class", "parent")
+	            .attr("data-placement", "top")
+              .attr("title", "Tooltip test")
+              .attr("rel", "tooltip")
+              .call(rect)
+            .append("title")
+              .text(function(d) { return formatNumber(d.value); });
+
+          g.append("text")
+              .attr("dy", ".75em")
+              .attr("fill", "#333")
+              .text(function(d) {
+                      var w = (d.dx  / d.parent.dx) * 960;
+                      if (d.name.length*6.5 < ((d.dx / d.parent.dx) * 960) && ((d.dy / d.parent.dy) * 500) > 18 && (w > 100)) {
+                        d.hiddendata = false;
+                        return d.name;
+                      } 
+                      else {
+                        d.hiddendata = true;
+                        return "";
+                      }
+                    })
+              .call(text);
+          g.append("text")
+              .attr("dy", "1.75em")
+              .attr("fill", "#333")
+              .text( function(d) { 
+                      if (accounting.formatMoney(d.value).length*6 > ((d.dx / d.parent.dx) * 960) || d.hiddendata) {
+                        d.hiddendata = true;
+                        return "";
+                      }
+                      else {
+                        return accounting.formatMoney(d.value);
+                      }
+                   })
+              .call(text);
+
+          function transition(d) {
+            if (transitioning || !d) return;
+            transitioning = true;
+
+            var g2 = display(d),
+                t1 = g1.transition().duration(750),
+                t2 = g2.transition().duration(750);
+
+            // Update the domain only after entering new elements.
+            x.domain([d.x, d.x + d.dx]);
+            y.domain([d.y, d.y + d.dy]);
+
+            // Enable anti-aliasing during the transition.
+            svg.style("shape-rendering", null);
+
+            // Draw child nodes on top of parent nodes.
+            svg.selectAll(".depth").sort(function(a, b) { return a.depth - b.depth; });
+
+            // Fade-in entering text.
+            g2.selectAll("text").style("fill-opacity", 0);
+
+            // Transition to the new view.
+            t1.selectAll("text").call(text).style("fill-opacity", 0);
+            t2.selectAll("text").call(text).style("fill-opacity", 1);
+            t1.selectAll("rect").call(rect);
+            t2.selectAll("rect").call(rect);
+
+            // Remove the old node when the transition is finished.
+            t1.remove().each("end", function() {
+              svg.style("shape-rendering", "crispEdges");
+              transitioning = false;
+            });
+          }
+
+          return g;
+        }
+
+        function text(text) {
+          text.attr("x", function(d) { return x(d.x) + 6; })
+              .style("font-size", function(d) {
+                                    var size = "12px";
+                                      d.namedisplay = d.name;
+                                    return size;
+                                  })
+              .attr("y", function(d) { return y(d.y) + 6; });
+        }
+
+        function rect(rect) {
+          rect.attr("x", function(d) { return x(d.x); })
+              .attr("y", function(d) { return y(d.y); })
+              .attr("width", function(d) { tempwidth = x(d.x + d.dx) - x(d.x); return tempwidth > 0 ? tempwidth : 0; })
+              .attr("height", function(d) { return y(d.y + d.dy) - y(d.y); })
+          .style("fill", function(d) { 
+                  if (d.parent.parent != null) {
+                      if (d.parent.parent.parent != null) {
+                        return color(d.parent.name.substr(6,3));
+                      }
+                      else {
+                        return color(d.name.substr(6, 3));
+                      }
+                  }
+                  else {
+                    return "none";
+                  }
+                }
+              );
+          rect.attr("onclick", "javascript:getRecords(evt)"); 
+          rect.attr("onmouseover", "javascript:showInfo(evt)");
+          rect.attr("onmouseout", "javascript:hideInfo(evt)");
+        }
+
+        function name(d) {
+          return d.parent
+              ?  name(d.parent) + " : " + d.name
+              : "Home : " + d.name;
+        }
+      });
+      }
+    </script>
+
+  <script>
+
+    function showInfo(evt) {
+      evt.target.setAttributeNS(null, "opacity", 0.5);
+      evt.target.setAttributeNS(null, "fill", "#000000");
+      var data  = evt.target.__data__;
+      var d = $('#budgetinfo');
+
+      tooltip.show(data.name + "<br>" + accounting.formatMoney(data.value));
+    }
+
+    function hideInfo(evt) {
+      tooltip.hide();
+    }
+
+    // Have we clicked down to see the detailed transactions?  If so, get them
+    function getRecords(evt) {
+      n = evt.target.__data__;
+      p = n.parent;
+      g = p.parent;
+
+      // Check to make sure we'll get back something.
+      if(evt.target.__data__.children == undefined) {
+        updateResults(g.dept_id, p.sub_object_code, n.name);
+      }
+    }
+ 
+    // Update the search results with what we've clicked down to
+    function updateResults(dept, cat, desc) {
+      var html    = "";
+      var khtml   = "";
+      var first   = true;
+      var search  = $('#search').val();
+      var url     = "";
+
+      $('#working').activity();
+      
+      if (dept == "") {    
+        url = "jrequest.rb?search0=" + $('#search').val();
+      }
+      else {
+        url = "jrequest.rb?dept=" + dept + "&cat=" + cat + "&desc=" + desc;
+      }
+ 
+      $('#resultstable').empty();
+      $('#resultstable').append('<tbody></tbody>');
+      
+      // Update our results table with the new search results
+      $.ajax({
+          url: url,
+          dataType: 'json',
+          success: 
+            function(data) {
+             $('#working').activity(false);
+             $('#searchtitle').html("Search Results");
+
+              if (data == "") {
+                $('#resultstable').html("No results found");
+              }
+              else {
+               // In Ruby 1.8 the hashed aren't sorted, so we have to sort them here
+               var keys = Object.keys(data[0]);
+               var orderedKeys = new Array;
+
+               for(i in keys) {
+                  orderedKeys[i] = keys[i];
+               }
+
+               orderedKeys.sort ();
+               keys = orderedKeys;
+
+                for (d in data) {
+                  var rowhtml = "";
+
+                  for (k in keys) {
+                    if (keys[k] == "Total Expenditures") {
+                      rowhtml += "<td>" + accounting.formatMoney(data[d][keys[k]]) + "</td>";
+                    }  
+                    else {
+                      rowhtml += "<td>" + data[d][keys[k]] + "</td>";
+                    }
+
+
+                     if (first) {
+                      khtml += "<th>" + keys[k] + "</th>";
+                     }
+                  }
+                  if (first) {
+                    khtml = "<tr>" + khtml + "</tr>";
+                    $('#resultstable tbody:first').append(khtml); 
+                    first = false;
+                  }
+                  rowhtml = "<tr>" + rowhtml + "</tr>\n";
+                  $('#resultstable').append( rowhtml );
+                }
+              }
+            },
+            timeout: 1000*60*10,
+          error: 
+            function(jqXHR, status, errorThrown){   //the status returned will be "timeout" 
+               //do something 
+                $('#working').activity(false);
+                $('#debug').html = "There was a problem retrieving the data.<br>Error:  " + status + "<br>E:  " + errorThrown + "<br>";
+              }
+          }); 
+
+      return false;  
+     }
+  </script>
+
+  </head>
+  <body onload="javascript:init()">
+    <h1><a href="http://brettmandel.com"><img alt="Mandel for Controller" title="Mandel for Controller" src="images/bulldog_logo_blue.jpg"></a></h1>
+    <h1><a href="">Mandel for Controller Bulldog Budget</a></h1> 
+    <ul class="nav nav-pills">
+      <li><a href="#aboutmodal" role="button" data-toggle="modal">About</a></li>
+      <li><a href="#helpmodal" role="button" data-toggle="modal">Help</a></li>
+    </ul>
+    <p id="chart"></p>
+    <form class="form-search" onsubmit="return(updateResults('','',''));" id="searchform" action="#" name="searchform">
+      <label for="search">Search for individual budget items</label><br>
+      <input type="text" placeholder="Search text" id="search" class="search-query">
+      <input type="button" class="btn" value="Submit" onclick="updateResults('','','')">
+    </form>
+    <h2 id="searchtitle"></h2>
+    <div id="working"></div>    
+    <div id="results">
+      <table class="table table-hover" id="resultstable">
+      <tbody></tbody>
+      </table>
+    </div>
+    <div id=debug></div>
+
+    <div class="disclaimer">DISCLAIMER: The material on this site is made available as a public service. The data are to be used for reference purposes only. Data are provided by the City of Philadelphia through requests pursuant to the Right to Know Law.  Although the data are believed to be accurate, The Committee to Elect Brett Mandel and Brett Mandel, along with their agents, consultants, contractors, and employees, provide this data AS IS without warranty of any kind, implied or expressed, as to the information being accurate or complete. With knowledge of the foregoing, each visitor to this website agrees to waive, release, and indemnify The Committee to Elect Brett Mandel and Brett Mandel, along with their agents, consultants, contractors and employees, from any and all claims, actions, or causes of action for damages or injury to persons or property arising from his/her use or inability to use this data.  If you encounter an error, please email <a href="mailto:mandelforcontroller@gmail.com">mandelforcontroller@gmail.com</a> and describe the problem in detail.</div>
+
+  <div class="modal hide fade about" id="aboutmodal">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    <h3>About</h3>
+    </div>
+
+    <div class="modal-body">
+    <h4>Mandel for Controller Bulldog Budget</h4>
+    <p>The Mandel for Controller Bulldog Budget allows users, for the first time ever, to see how every single dollar of our money was spent from the Philadelphia city budget.  You can dig for information like a dog digs for a bone, but before you do, a note on navigation.</p>
+        
+    <p>The Philadelphia budget is adopted by City Council each year with expenditures approved by agency and by "class" and classes refer to:<br>
+    Class 100 - Salaries and fringe benefits<br>
+    Class 200 - Contracts for the purchase of services and leases<br>
+    Class 300 - Materials and supplies<br>
+    Class 400 - Equipment<br>
+    Class 500 - Contributions and indemnities (payments for compensation by the city)<br>
+    class 700 - Debt Service (payments for long-term loans/bonds)<br>
+    Class 800 - Payments to other funds<br>
+    Class 900 - Advances and miscellaneous payment<br>
+    </p>
+    <p>The city budget ordinance passed by City Council shows only how much money is allocated to each city agency and how that money is divided by class -- how much for personnel, how much for contracts, how much for supplies, and so on.  But, with the <a href="http://brettmandel.com">Mandel for Controller</a> Bulldog Budget you can search for any agency, vendor, or type of expenditure or click through each agency to each class to each type of expenditure to see a list of the actual payments down to the last cent.</p>
+    <p>The Bulldog Budget was developed by Brett Mandel and Ben Garvey</p>
+    </div>
+    <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Back</button>
+  </div>
+  </div>
+
+  <div class="modal hide fade help" id="helpmodal">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    <h3>Help</h3>
+    </div>
+
+    <div class="modal-body">
+    <h4>How to Use This Tool</h4>
+    <p>The budget data are presented in a clickable <a href="http://en.wikipedia.org/wiki/Treemapping">treemap</a>.  The area of each box is set according to the magnitude of the expenditures in that category.   Just click on the department or category to see greater and greater detail.  Once you dive down to the lowest level, click again to bring up a search listing of all the individual expenditures that make up that box.  Click the home bar to return to higher level views.</p>
+    <p>To search for specific expenditures, use the search tool to search across all types of budget items.</p>
+    <p>If you find any errors, please email <a href="mailto:mandelforcontroller@gmail.com">Brett Mandel</a> so they can be corrected.</p>
+    <p>The Bulldog Budget supports most modern web browsers.  You will experience problems using Internet Explorer 8 or less.</p>  
+    </div>
+    <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Back</button>
+  </div>
+  </div>
+
+  </body>
+
+</html>
