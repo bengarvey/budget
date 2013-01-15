@@ -23,4 +23,4 @@ DONE Ben - Sort by name instead of expenditure
 Ben - Allow user to sort table
 Ben - Table borders break during some searches
 Ben - Consolidate vendor name and first_name/last_name fields
-Ben - Add link to github project
+DONE Ben - Add link to github project
