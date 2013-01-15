@@ -1,21 +1,26 @@
 DONE Brett - Titles for header row of search
 DONE Ben - Make sure data matches up with what it's supposed to be.
-Ben - Tooltip window for hovering over boxes
-Ben - Fixing the text in the treemap
-Ben - Picking a color scheme for the sub cats (blue, yellow, Philly flag)
+DONE Ben - Tooltip window for hovering over boxes
+DONE Ben - Fixing the text in the treemap
+DONE Ben - Picking a color scheme for the sub cats (blue, yellow, Philly flag)
 DONE Ben - Add the rest of the data in
 DONE Ben - Fix enter to submit
-Ben - Help tutorial
+DONE Ben - Help tutorial
 Ben - Regenerate the json for various categories
-Brett - Disclaimer 
-Ben - Change title for full monty budget
-Ben - Philadelphia General Fund Budget Fiscal Year 2012
-Ben - Brett Mandel for city controller
-Ben - Everything should be all title capped
-Ben - MDO-Office, not Mdo-office
+DONE Brett - Disclaimer 
+DONE Ben - Change title for full monty budget
+DONE Ben - Philadelphia General Fund Budget Fiscal Year 2012
+DONE Ben - Brett Mandel for city controller
+DONE Ben - Everything should be all title capped
+DONE Ben - MDO-Office, not Mdo-office
 DONE Ben - Go back to original data scheme
 Ben - Link bait (canned search)
 Ben - link to information about each city department
 DONE Brett - Get links to information about city budge
-Ben - Corrections process
-Ben - Add "no results found" message
+DONE Ben - Corrections process
+DONE Ben - Add "no results found" message
+DONE Ben - Sort by name instead of expenditure
+Ben - Allow user to sort table
+Ben - Table borders break during some searches
+Ben - Consolidate vendor name and first_name/last_name fields
+Ben - Add link to github project
