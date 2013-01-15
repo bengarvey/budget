@@ -99,6 +99,7 @@ class Request
 
 
     statement = statement.chomp(' and ')
+    statement += " order by vendor_name, last_name, first_name"
     #puts statement + "<br>"
     return statement
 
@@ -115,7 +116,7 @@ class Request
       config = c['config']
       
       db = Mysql.new(config['server'], config['username'], config['password'], config['database'])    
-    
+
       sql = self.prepare()
       res = db.query(sql)
       while row = res.fetch_hash
