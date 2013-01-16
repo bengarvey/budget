@@ -22,8 +22,10 @@ class BudgetItem
   def to_sql
 
     # Hide Amex numbers
-    if (@transaction_description != nil && @vendor_name  == "AMERICAN EXPRESS" || @vendor_name == "BANK OF AMERICA") 
-      @transaction_description.gsub!(/\*.*\*/, "");
+    if (!@transaction_description.nil?) 
+      if (@vendor_name  == "AMERICAN EXPRESS" || @vendor_name == "BANK OF AMERICA") 
+        @transaction_description.gsub!(/\*.*\*/, "");
+      end
     end
 
     
