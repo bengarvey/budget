@@ -3,8 +3,16 @@ budget
 
 Philadelphia Budget Data data visualization
 
+
 Description
 ======
+
+The data set is in /data
+
+We used convert.rb to convert the .csv file to json and to a sql insert statement
+
+index.html sends json requests to jrequest.rb which returns json
+
 
 Mandel for Controller Bulldog Budget
 
