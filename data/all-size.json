@@ -1,0 +1,5374 @@
+	{	"name" : "Philadelphia General Fund Budget FY2012",
+		"size" : 0,
+		"children" : [
+			{	"name" : "",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class S00: ",
+						"sub_object_code" : "S00",
+						"size" : 0,
+						"children" : [
+							{	"name" : "Sub-object Title",
+								"size" : 0.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "City Council",
+				"dept_id" : "1",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 12252892.950000001
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 710.0
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 409.98
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 101603.70000000001
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 895.75
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 4259.1900000000005
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 8017.38
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 618248.5599999988
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 351353.58999999997
+							},
+							{	"name" : "LEGAL SERVICES                      0253",
+								"size" : 155.8
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 624.95
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 9913.789999999997
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 145238.75000000003
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 80087.07999999999
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 18881.18
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 103020.66000000002
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 443.13
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+								"size" : 300.0
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 8143.619999999999
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 1154.91
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 1156.6000000000001
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 23.14
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 906.2199999999999
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 6050.4299999999985
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 72459.56000000003
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 137.5
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 91902.23
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 824.85
+							},
+							{	"name" : "JANITORIAL AND LAUNDRY              0418",
+								"size" : 240.0
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 2975.89
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 737.5999999999999
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 4714.02
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 59661.62
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Mayor's Office-Labor Relations",
+				"dept_id" : "3",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 526947.98
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 340.33
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 345.5
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 5432.0
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 1797.8799999999999
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 55.5
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Office Of Innovation & Technology",
+				"dept_id" : "4",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 17140535.469999988
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 2306.3499999999995
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 4675.78
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 1362825.8299999998
+							},
+							{	"name" : "ELECTRIC CURRENT-STRUCTURES/STREETS 0220",
+								"size" : 189259.49000000005
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 151.82999999999998
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 12282.989999999998
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 7751008.130000003
+							},
+							{	"name" : "ACCOUNTING AND AUDITING SERVICES    0252",
+								"size" : 5000.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 26453.67
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 56732.439999999995
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 1217879.2499999998
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 3340558.259999999
+							},
+							{	"name" : "RENT/LEASE-PURCHASE COMPUTER EQUIP  0282",
+								"size" : 9232028.250000004
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 62324.62
+							},
+							{	"name" : "RENTAL OF PARKING SPACES            0286",
+								"size" : 35.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 2230.49
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 253.68
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 513327.1
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 212.06
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 12967.920000000002
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 72.84
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 54184.539999999986
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 25273.23
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 551.0
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 229.0
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 619050.2999999999
+							},
+							{	"name" : "FIRE FIGHTING AND EMERGENCY         0412",
+								"size" : 1565.54
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 9078.29
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 2966.0
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 2330954.1499999994
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 30256.96
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 18437526.480000004
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Mayor's Office",
+				"dept_id" : "5",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 2964008.02
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 877.4300000000002
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 56577.93
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 2085.2000000000007
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 430081.18000000005
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 46214.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 3900.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 16885.470000000005
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 2887.0
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 585.96
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 8930.88
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 350.55
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 84.99
+							},
+							{	"name" : "OTHER MATERIALS AND SUPPLIES (NOC)  0399",
+								"size" : 223.0
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 129.99
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 692.0
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 457.42
+							}
+
+						]
+					},
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "MERITORIOUS AWARDS                  0504",
+								"size" : 181500.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Office Of Housing",
+				"dept_id" : "6",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 2152315.9699999997
+							},
+							{	"name" : "DEMOLITION OF BUILDINGS             0262",
+								"size" : 141242.0
+							}
+
+						]
+					},
+					{	"name" : "Class 800: Payments to Other Funds",
+						"sub_object_code" : "800",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PAYMENTS TO GRANTS REVENUE FUND     0812",
+								"size" : 154044.31
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Mayor's Office Of Community Services",
+				"dept_id" : "8",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 3025024.1100000003
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Managing Director's Office",
+				"dept_id" : "10",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PURCHASE OF SERVICES CONTROL        0200",
+								"size" : 13421.48
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 616.27
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 12340.759999999998
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 26242.520000000008
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 140.0
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 167729.79
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 8593.7
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 301.39
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 6975560.389999999
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 20608.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 17811.4
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 16396.2
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 71984.68
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 532.13
+							},
+							{	"name" : "GROUND AND BUILDING RENTAL          0284",
+								"size" : 21018.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 15514.96000000001
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 109711.74
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "MATERIALS & SUPPLIES CONTROL        0300",
+								"size" : 56.35
+							},
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+								"size" : 10707.6
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 1551.52
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 203948.6200000001
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 14424.169999999998
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 19676.67
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 10772.799999999997
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 3038.23
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 1061.7
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 2168.6000000000004
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 65829.86
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 16893.179999999997
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 21999.53
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 4378.25
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 1277.5
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 8195.75
+							},
+							{	"name" : "MOTOR VEHICLE PARTS AND ACCESSORIES 0328",
+								"size" : 18489.269999999997
+							},
+							{	"name" : "LIQUID PROPANE GAS (LPG)            0342",
+								"size" : 482.6
+							},
+							{	"name" : "OTHER MATERIALS AND SUPPLIES (NOC)  0399",
+								"size" : 2449.8999999999996
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0401",
+								"size" : 22582.96
+							},
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0403",
+								"size" : 3521.0
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 2988.0
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 581.31
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 28618.74
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 2062.0
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 9586.93
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 10920630.090000002
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Police Department",
+				"dept_id" : "11",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 3091365.89
+							},
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 11393.289999999999
+							},
+							{	"name" : "REFUSE/GARBAGE/SILT/SLUDGE REMOVAL  0205",
+								"size" : 14853.58
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 460.99
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 116082.02999999993
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 142763.84999999995
+							},
+							{	"name" : "RETURN OF FUGITIVES                 0212",
+								"size" : 52586.31000000001
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 12534.3
+							},
+							{	"name" : "OVERTIME MEALS                      0231",
+								"size" : 373058.0
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 22540.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1721430.75
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 9.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 10741.189999999999
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 348495.33999999997
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 864576.049999997
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 46285.76
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 138125.28000000038
+							},
+							{	"name" : "PURCHASE SERVICES-IMPREST ADVANCES  0295",
+								"size" : 212.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+								"size" : 370.88
+							},
+							{	"name" : "ANIMAL, LIVESTOCK AND MARINE LIFE   0302",
+								"size" : 61161.67999999999
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 48373.920000000006
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 47050.62000000001
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 7633.800000000001
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 3745268.5599999996
+							},
+							{	"name" : "CORDAGE AND FIBERS                  0309",
+								"size" : 9344.93
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 53512.780000000006
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 25558.649999999998
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 795000.0700000001
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 176481.05
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 10118.16
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 431348.6499999999
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 231593.12000000002
+							},
+							{	"name" : "NAUTICAL AND AERONAUTICAL           0319",
+								"size" : 391998.63
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 543387.3199999995
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 800.25
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 1035.24
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 812132.0099999999
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 182893.01
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 3786.92
+							},
+							{	"name" : "MOTOR VEHICLE PARTS AND ACCESSORIES 0328",
+								"size" : 28152.340000000007
+							},
+							{	"name" : "LUBRICANTS                          0335",
+								"size" : 625.66
+							},
+							{	"name" : "LIQUID PROPANE GAS (LPG)            0342",
+								"size" : 16933.75
+							},
+							{	"name" : "GASOLINE                            0345",
+								"size" : 78459.73000000001
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0403",
+								"size" : 89.0
+							},
+							{	"name" : "CONSTRUCTION, DREDGING, CONVEYING   0405",
+								"size" : 2205.0
+							},
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 2433.0
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 861.0
+							},
+							{	"name" : "FIRE FIGHTING AND EMERGENCY         0412",
+								"size" : 265036.35
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0417",
+								"size" : 8894.94
+							},
+							{	"name" : "JANITORIAL AND LAUNDRY              0418",
+								"size" : 1429.0
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 56649.60000000001
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 1284.17
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 21129.870000000003
+							},
+							{	"name" : "PRINTING AND BINDING                0425",
+								"size" : 869.51
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0426",
+								"size" : 14673.9
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 9943.35
+							},
+							{	"name" : "VEHICLES -- MOTOR AND MOTORLESS     0428",
+								"size" : 176.7
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 284648.75
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 604668516.6900033
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Streets Department",
+				"dept_id" : "12",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 11949.65
+							},
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 235.0
+							},
+							{	"name" : "REFUSE/GARBAGE/SILT/SLUDGE REMOVAL  0205",
+								"size" : 40705326.59
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 62.47
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 522.0999999999999
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 13949.640000000001
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 112.0
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 12750.460000000003
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 517835.89
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1818957.819999999
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 30350.420000000002
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 17654.75
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 297265.91999999946
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 88855.46
+							},
+							{	"name" : "PURCHASE SERVICES-IMPREST ADVANCES  0295",
+								"size" : 1856.3499999999997
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 243.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+								"size" : 4680.0
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 10512.4
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 662285.8199999998
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 643472.5100000001
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 228875.68000000008
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 1307167.39
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 37395.09
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 81347.78
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 3759.2699999999995
+							},
+							{	"name" : "FUEL -- HEATING AND LIGHTING        0314",
+								"size" : 310076.99999999994
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 376416.5499999998
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 6515.0
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 167061.21999999997
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 91077.23000000019
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 114009.64000000007
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 10318.29
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 120569.01
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 79095.37
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 6791.0
+							},
+							{	"name" : "MOTOR VEHICLE PARTS AND ACCESSORIES 0328",
+								"size" : 13453.769999999999
+							},
+							{	"name" : "LUBRICANTS                          0335",
+								"size" : 575.52
+							},
+							{	"name" : "LIQUID PROPANE GAS (LPG)            0342",
+								"size" : 44023.15999999986
+							},
+							{	"name" : "OTHER MATERIALS AND SUPPLIES (NOC)  0399",
+								"size" : 9.99
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "EQUIPMENT CONTROL                   0400",
+								"size" : 1285.0
+							},
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 15322.0
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 39457.5
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 84228.86
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 6309.620000000001
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 13513.98
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 6900.0
+							},
+							{	"name" : "VEHICLES -- MOTOR AND MOTORLESS     0428",
+								"size" : 137172.12
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 73886.37999999999
+							}
+
+						]
+					},
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CONTRIBUTIONS-ED & NON-PROF REC ORG 0505",
+								"size" : 48171.0
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 72951444.38999994
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Fire Department",
+				"dept_id" : "13",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 2375.0
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 211.13
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 35086.83999999999
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 21875.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 4892531.630000001
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 1211.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 191410.12
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 708658.92
+							},
+							{	"name" : "CLEAN & SEAL VACANT BLDGS/LOTS      0263",
+								"size" : 1237.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 15027.299999999985
+							},
+							{	"name" : "PURCHASE SERVICES-IMPREST ADVANCES  0295",
+								"size" : 4043.3799999999997
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+								"size" : 2429.0
+							},
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0303",
+								"size" : 187.84
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 26564.980000000007
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 8677.960000000001
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 184672.80999999784
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 3850082.2300000004
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 60494.36
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 1532.6399999999999
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 471750.3599999998
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 3331.5099999999984
+							},
+							{	"name" : "FUEL -- HEATING AND LIGHTING        0314",
+								"size" : 67756.70000000001
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 20697.33
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 1420685.4899999988
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 151365.05
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 138837.74000000002
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 20431.439999999995
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 110390.6
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 54958.07000000001
+							},
+							{	"name" : "#2 DIESEL FUEL                      0340",
+								"size" : 397.5
+							},
+							{	"name" : "COMPRESSED NATURAL GAS (CNG)        0341",
+								"size" : 56.0
+							},
+							{	"name" : "LIQUID PROPANE GAS (LPG)            0342",
+								"size" : 289.56
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "FIRE FIGHTING AND EMERGENCY         0412",
+								"size" : 197468.1
+							},
+							{	"name" : "JANITORIAL AND LAUNDRY              0418",
+								"size" : 4650.0
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 14160.33
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 28236.870000000003
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 3181.69
+							},
+							{	"name" : "VEHICLES -- MOTOR AND MOTORLESS     0428",
+								"size" : 1418.4
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 362744.76000000007
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 181717132.43000156
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Department Of Public Health",
+				"dept_id" : "14",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 39754915.84000009
+							},
+							{	"name" : "GROUP LIFE INSURANCE                0194",
+								"size" : 0.0
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 1204.27
+							},
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 13898.89
+							},
+							{	"name" : "REFUSE/GARBAGE/SILT/SLUDGE REMOVAL  0205",
+								"size" : 127267.55999999995
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 45363.51999999999
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 7221.460000000002
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 46663.60999999999
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 13846.0
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 17538.84
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 15731.489999999998
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 3305.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 57770780.23999993
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 209254.14
+							},
+							{	"name" : "ACCOUNTING AND AUDITING SERVICES    0252",
+								"size" : 10000.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 21201.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 2720.25
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 725188.4000000011
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 18696.739999999998
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 21084.139999999992
+							},
+							{	"name" : "RENTAL OF PARKING SPACES            0286",
+								"size" : 131.76
+							},
+							{	"name" : "PURCHASE SERVICES-IMPREST ADVANCES  0295",
+								"size" : 5402.4299999999985
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 4.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0303",
+								"size" : 218.36
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 13033.869999999999
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 41570.73
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 517412.1899999999
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 21351.82
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 51693.50000000001
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 28695.639999999996
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 5631.82
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 422.21999999999997
+							},
+							{	"name" : "FUEL -- HEATING AND LIGHTING        0314",
+								"size" : 38.99
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 31667.59
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 2598815.6500000004
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 176551.10000000006
+							},
+							{	"name" : "NAUTICAL AND AERONAUTICAL           0319",
+								"size" : 294.0
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 229863.44000000035
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 6917.9
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 40212.030000000006
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 42442.95
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 81941.57999999999
+							},
+							{	"name" : "MOTOR VEHICLE PARTS AND ACCESSORIES 0328",
+								"size" : 446.32
+							},
+							{	"name" : "#2 DIESEL FUEL                      0340",
+								"size" : 407.62
+							},
+							{	"name" : "LIQUID PROPANE GAS (LPG)            0342",
+								"size" : 224.92
+							},
+							{	"name" : "GASOLINE                            0345",
+								"size" : 91.02
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "EQUIPMENT CONTROL                   0400",
+								"size" : 23015.489999999998
+							},
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0401",
+								"size" : 3487.0
+							},
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0403",
+								"size" : 2359.76
+							},
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 6883.89
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 3764.0
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0417",
+								"size" : 68400.53
+							},
+							{	"name" : "JANITORIAL AND LAUNDRY              0418",
+								"size" : 5947.05
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 17028.79
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 3418.499999999999
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0426",
+								"size" : 13346.61
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 105512.01000000001
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 30476.919999999995
+							}
+
+						]
+					},
+					{	"name" : "Class 800: Payments to Other Funds",
+						"sub_object_code" : "800",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PAYMENTS TO CAPITAL PROJECTS FUND   0804",
+								"size" : 500000.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Office Of Behavioral Health",
+				"dept_id" : "15",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 1464697.9900000002
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 574659.0
+							},
+							{	"name" : "MENTAL HEALTH & RETARDATION SERVICE 0254",
+								"size" : 13049720.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Recreation Department",
+				"dept_id" : "16",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "WORKER'S COMP-DISABILITY COMP       0187",
+								"size" : -10290.7
+							},
+							{	"name" : "MEDICARE TAX                        0189",
+								"size" : -662.24
+							},
+							{	"name" : "FICA TAXES                          0192",
+								"size" : -2832.0
+							},
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 35318884.19999995
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 8440.0
+							},
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 21984.0
+							},
+							{	"name" : "REFUSE/GARBAGE/SILT/SLUDGE REMOVAL  0205",
+								"size" : 23975.21
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 7213.44
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 1273.23
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 3716.6099999999997
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 2734.0
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 518.0
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 6765.14
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 3330.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 3906090.1199999982
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 3500.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 5962.53
+							},
+							{	"name" : "ARCHITECTURAL & ENGINEERING SRVCS   0257",
+								"size" : 14500.0
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 986.5
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 610077.58
+							},
+							{	"name" : "INSURANCE AND OFFICIAL BONDS        0280",
+								"size" : 5225.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 198893.36999999997
+							},
+							{	"name" : "PURCHASE SERVICES-IMPREST ADVANCES  0295",
+								"size" : 327.42
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+								"size" : 66732.16
+							},
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0303",
+								"size" : 13.95
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 685.1199999999999
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 252347.72999999995
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 311176.5099999999
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 22700.13
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 199052.56999999998
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 44374.93
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 29078.33
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 789.65
+							},
+							{	"name" : "FUEL -- HEATING AND LIGHTING        0314",
+								"size" : 139120.02000000005
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 103296.65000000001
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 27131.04
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 133065.31000000003
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 37147.06000000001
+							},
+							{	"name" : "PARKING METER AND WATER METER       0321",
+								"size" : 4.5
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 68949.91000000002
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 143333.71999999983
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 17961.72
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 1928.85
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 119026.15
+							},
+							{	"name" : "MOTOR VEHICLE PARTS AND ACCESSORIES 0328",
+								"size" : 12963.800000000001
+							},
+							{	"name" : "LUBRICANTS                          0335",
+								"size" : 198.79
+							},
+							{	"name" : "LIQUID PROPANE GAS (LPG)            0342",
+								"size" : 5999.3
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0401",
+								"size" : 5362.61
+							},
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0403",
+								"size" : 3077.92
+							},
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 540.4
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 97740.29000000001
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 23796.33
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 29936.589999999993
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0426",
+								"size" : 9567.88
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 2903.0
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 137161.32
+							}
+
+						]
+					},
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CONTRIBUTIONS-ED & NON-PROF REC ORG 0505",
+								"size" : 2830000.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Fairmount Park Commission",
+				"dept_id" : "17",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 2311.3199999999997
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 65311.5
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Atwater Kent Museum",
+				"dept_id" : "18",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 223122.85
+							}
+
+						]
+					},
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CONTRIBUTIONS-GOV & NON-PROF NOT ED 0517",
+								"size" : 50000.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Public Property",
+				"dept_id" : "20",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 6317562.699999999
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 83099.0
+							},
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 3713163.63
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 7964.069999999998
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 4380.18
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 5025.740000000001
+							},
+							{	"name" : "ELECTRIC CURRENT-STRUCTURES/STREETS 0220",
+								"size" : 22182636.23000001
+							},
+							{	"name" : "GAS SERVICES                        0221",
+								"size" : 6111395.98
+							},
+							{	"name" : "STEAM FOR HEATING                   0222",
+								"size" : 2481014.939999999
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 81602264.71999997
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 2380.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 2621.8
+							},
+							{	"name" : "ARCHITECTURAL & ENGINEERING SRVCS   0257",
+								"size" : 21600.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 4495333.819999993
+							},
+							{	"name" : "GROUND AND BUILDING RENTAL          0284",
+								"size" : 16118749.269999987
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 42121.06
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 85402.29000000001
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 17800.960000000003
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 29476.49000000001
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 133513.32000000004
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 23742.05
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 18445.84
+							},
+							{	"name" : "FUEL -- HEATING AND LIGHTING        0314",
+								"size" : 57905.78999999999
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 74883.06000000001
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 353.6
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 51594.25000000001
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 46798.35999999999
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 23425.320000000003
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 155681.35999999987
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 32550.609999999993
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 2001.56
+							},
+							{	"name" : "#2 DIESEL FUEL                      0340",
+								"size" : 1369.0099999999998
+							},
+							{	"name" : "LIQUID PROPANE GAS (LPG)            0342",
+								"size" : 828.5899999999999
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0403",
+								"size" : 3912.0
+							},
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 2465.19
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 1333.27
+							},
+							{	"name" : "JANITORIAL AND LAUNDRY              0418",
+								"size" : 829.95
+							},
+							{	"name" : "POWER TOOLS AND HAND TOOLS          0422",
+								"size" : 3007.0
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 50327.32000000001
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 36226.6
+							}
+
+						]
+					},
+					{	"name" : "Class 800: Payments to Other Funds",
+						"sub_object_code" : "800",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PAYMENTS TO CAPITAL PROJECTS FUND   0804",
+								"size" : 529000.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Department Of Human Services",
+				"dept_id" : "22",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 3623633.2699999865
+							},
+							{	"name" : "MEDICAL HEALTH & WELFARE CREDIT     0193",
+								"size" : 0.0
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 300.0
+							},
+							{	"name" : "REFUSE/GARBAGE/SILT/SLUDGE REMOVAL  0205",
+								"size" : 11411.5
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 2285.4
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 280.69
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 125471.03000000001
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 170.0
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 61819.84
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 2963.53
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 21646183.02000001
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 703381.75
+							},
+							{	"name" : "LEGAL SERVICES                      0253",
+								"size" : 572040.8999999999
+							},
+							{	"name" : "MENTAL HEALTH & RETARDATION SERVICE 0254",
+								"size" : 199768.97999999998
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 4452.4
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 60877.07
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 2090.1800000000003
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 38704.35000000011
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 15462.62
+							},
+							{	"name" : "LEASE PAYMENTS-PHILA MUNICIPAL AUTH 0281",
+								"size" : 4513723.640000001
+							},
+							{	"name" : "GROUND AND BUILDING RENTAL          0284",
+								"size" : 455981.28
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 64395.15000000006
+							},
+							{	"name" : "PAYMENTS FOR CARE OF INDIVIDUALS    0290",
+								"size" : 76234780.18000512
+							},
+							{	"name" : "DAY CARE PAYMENTS                   0291",
+								"size" : 59074.84000000001
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 5402.7699999999995
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 3261.77
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 13434.85
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 2093.32
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 30734.27
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 86537.9899999999
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 878.5799999999999
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 6586.08
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 56416.9
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 51782.11000000001
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 2019.88
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 17102.5
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 427.0
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 349.7
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0401",
+								"size" : 393.0
+							},
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 14220.67
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 3716.09
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 249.18
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 35922.0
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 5031.799999999999
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Prisons",
+				"dept_id" : "23",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 125476049.24000016
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 365378.48
+							},
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 28603.5
+							},
+							{	"name" : "REFUSE/GARBAGE/SILT/SLUDGE REMOVAL  0205",
+								"size" : 4437.450000000001
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 63712.3
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 21889.49000000001
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 83087.41
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 11132.0
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 717.17
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 3283.5
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 627.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 83365096.86
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 7152.95
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 39417.27999999999
+							},
+							{	"name" : "ARCHITECTURAL & ENGINEERING SRVCS   0257",
+								"size" : 34262.06
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 1225971.5099999981
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 31744.619999999995
+							},
+							{	"name" : "WITNESS EXPENSES                    0278",
+								"size" : 33.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 151553.7599999999
+							},
+							{	"name" : "PAYMENTS FOR CARE OF INDIVIDUALS    0290",
+								"size" : 12960137.61
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+								"size" : 595.39
+							},
+							{	"name" : "ANIMAL, LIVESTOCK AND MARINE LIFE   0302",
+								"size" : 852.29
+							},
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0303",
+								"size" : 10007.17
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 18741.129999999997
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 135739.78999999998
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 7313.12
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 1250905.8699999999
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 217106.5600000001
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 22173.86
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 152081.95
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 907.74
+							},
+							{	"name" : "FUEL -- HEATING AND LIGHTING        0314",
+								"size" : 61166.68
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 61506.449999999975
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 62659.34
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 494188.62
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 173390.85999999996
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 18073.730000000007
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 122179.22
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 175406.61
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 215024.03
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 453.0
+							},
+							{	"name" : "MOTOR VEHICLE PARTS AND ACCESSORIES 0328",
+								"size" : 3958.04
+							},
+							{	"name" : "TOBACCO PRODUCTS, SMOKING ACCESS    0329",
+								"size" : 316.0
+							},
+							{	"name" : "LUBRICANTS                          0335",
+								"size" : 195.0
+							},
+							{	"name" : "LIQUID PROPANE GAS (LPG)            0342",
+								"size" : 756.75
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0401",
+								"size" : 9760.0
+							},
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 722714.7000000001
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 12299.029999999999
+							},
+							{	"name" : "FIRE FIGHTING AND EMERGENCY         0412",
+								"size" : 10032.0
+							},
+							{	"name" : "JANITORIAL AND LAUNDRY              0418",
+								"size" : 38591.78
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 21274.59
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 108955.35999999999
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 8511.14
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 199525.16
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 85313.84999999999
+							}
+
+						]
+					},
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PRISONER INMATE & RESIDENT PAYMENTS 0506",
+								"size" : 1238741.6
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Office Of Supportive Housing",
+				"dept_id" : "24",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 7063730.980000005
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 49999.25
+							},
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 39.9
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 13208.680000000004
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 2316.1399999999994
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 57652.47999999999
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 135.5
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 4987.81
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 502.21000000000004
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 14973.93
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 4825422.739999993
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 93452.42
+							},
+							{	"name" : "LEGAL SERVICES                      0253",
+								"size" : 13332.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 800.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 2361.38
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 72093.71000000002
+							},
+							{	"name" : "GROUND AND BUILDING RENTAL          0284",
+								"size" : 2754496.990000001
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 25416.859999999997
+							},
+							{	"name" : "RENTAL OF PARKING SPACES            0286",
+								"size" : 25.0
+							},
+							{	"name" : "PAYMENTS FOR CARE OF INDIVIDUALS    0290",
+								"size" : 22680397.220000003
+							},
+							{	"name" : "PURCHASE SERVICES-IMPREST ADVANCES  0295",
+								"size" : 318.75
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "MATERIALS & SUPPLIES CONTROL        0300",
+								"size" : 858.6
+							},
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+								"size" : 83.5
+							},
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0303",
+								"size" : 3567.26
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 60.0
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 426.35
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 3109.12
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 25538.22
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 26551.469999999998
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 1344.7600000000002
+							},
+							{	"name" : "FUEL -- HEATING AND LIGHTING        0314",
+								"size" : 64797.590000000004
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 4038.13
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 4808.16
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 19854.760000000002
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 34595.030000000006
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 1668.21
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 11360.85
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 3143.0699999999997
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 740.5600000000001
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0401",
+								"size" : 679.0
+							},
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0403",
+								"size" : 32279.799999999996
+							},
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 11658.49
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 351.0
+							},
+							{	"name" : "JANITORIAL AND LAUNDRY              0418",
+								"size" : 493.78
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 781.71
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 9168.439999999999
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 219.98
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 14671.61
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 72206.92
+							}
+
+						]
+					},
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PRISONER INMATE & RESIDENT PAYMENTS 0506",
+								"size" : 32341.64
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Fleet Management",
+				"dept_id" : "25",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 15072238.74
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 28268.339999999946
+							},
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 243725.22000000003
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 6950.4
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 1645.4699999999996
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 6810.0
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 70342.34
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 197681.60000000015
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 150.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 4687.2699999999995
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 4335623.690000003
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 12325.0
+							},
+							{	"name" : "INSURANCE AND OFFICIAL BONDS        0280",
+								"size" : 11776.93
+							},
+							{	"name" : "LEASE PURCHASE -- VEHICLES          0283",
+								"size" : 4324135.2
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 64916.05000000001
+							},
+							{	"name" : "RENTAL OF PARKING SPACES            0286",
+								"size" : 425258.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0303",
+								"size" : 497.6
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 49402.130000000005
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 107569.86000000004
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 148224.71
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 123700.82000000004
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 6739.64
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 525.0599999999998
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 16693.53
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 1184.0
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 35749.53999999997
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 7603.0
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 60147.92999999999
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 26810.48999999999
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 74405.77000000002
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 2450.0
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 10650.5
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 7041.5
+							},
+							{	"name" : "MOTOR VEHICLE PARTS AND ACCESSORIES 0328",
+								"size" : 8557580.89000005
+							},
+							{	"name" : "LUBRICANTS                          0335",
+								"size" : 568158.1300000004
+							},
+							{	"name" : "#2 DIESEL FUEL                      0340",
+								"size" : 7295912.329999993
+							},
+							{	"name" : "BIO-FUELS                           0343",
+								"size" : 219577.14
+							},
+							{	"name" : "GASOLINE                            0345",
+								"size" : 11695834.079999989
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0403",
+								"size" : 105.49
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 88546.13999999998
+							},
+							{	"name" : "JANITORIAL AND LAUNDRY              0418",
+								"size" : 255.68
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 5531.75
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 1350.9
+							},
+							{	"name" : "VEHICLES -- MOTOR AND MOTORLESS     0428",
+								"size" : 3624190.6000000047
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 6806.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Department Of Licenses & Inspections",
+				"dept_id" : "26",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 14981291.980000013
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 21776.91
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 6.3
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 140661.78000000006
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 190.0
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 1431.72
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 495772.3900000001
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 60.7
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 4091.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 324420.13000000006
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 75.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 230974.8199999992
+							},
+							{	"name" : "DEMOLITION OF BUILDINGS             0262",
+								"size" : 3696794.3400000003
+							},
+							{	"name" : "ABATEMENT OF OTHER NUISANCES        0264",
+								"size" : 28060.7
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 9277.77
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 2736.0
+							},
+							{	"name" : "RENTAL OF PARKING SPACES            0286",
+								"size" : 27087.0
+							},
+							{	"name" : "PURCHASE SERVICES-IMPREST ADVANCES  0295",
+								"size" : 438.4700000000001
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "MATERIALS & SUPPLIES CONTROL        0300",
+								"size" : 314.09
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 8325.969999999998
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 50582.0
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 666.24
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 51514.86000000001
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 641.21
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+								"size" : 430.5
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 1913.82
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 3033.49
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 1366.9
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 26482.44
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 80293.47000000002
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 3133.24
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 25471.74
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 11237.179999999998
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 509.8
+							},
+							{	"name" : "MOTOR VEHICLE PARTS AND ACCESSORIES 0328",
+								"size" : 861.82
+							},
+							{	"name" : "OTHER MATERIALS AND SUPPLIES (NOC)  0399",
+								"size" : 576.03
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0401",
+								"size" : 1556.0
+							},
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0403",
+								"size" : 79.0
+							},
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 798.98
+							},
+							{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+								"size" : 2106.0
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 11806.0
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 1275.3
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 4761.95
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 496.0
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 68279.82
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Board Of Licenses & Inspections Review",
+				"dept_id" : "27",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 7281.75
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 123176.94999999998
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Board Of Building Standards",
+				"dept_id" : "29",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 62359.58
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Zoning Board Of Adjustment",
+				"dept_id" : "30",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 33191.4
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 341419.9600000001
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Department Of Records",
+				"dept_id" : "31",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 2817423.2800000003
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 711.2
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 1602.5700000000006
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 810.0500000000001
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 10255.86
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 30.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 675429.7800000005
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 100131.5
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 3840.99
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 9890.33
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 318875.68000000005
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 8368.88
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 2963.11
+							},
+							{	"name" : "PURCHASE SERVICES-IMPREST ADVANCES  0295",
+								"size" : 140.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 2284.19
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 28.64
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 832.3199999999999
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 63964.22999999999
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 23905.98
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 7662.809999999999
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "HOSPITAL AND LABORATORY             0417",
+								"size" : 3765.0
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 21516.510000000002
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 20.36
+							},
+							{	"name" : "PRINTING AND BINDING                0425",
+								"size" : 69800.0
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 1626.26
+							}
+
+						]
+					},
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CONTRIBUTIONS CONTROL               0500",
+								"size" : 657.2800000000001
+							},
+							{	"name" : "MERITORIOUS AWARDS                  0504",
+								"size" : 600.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Phila. Historical Commission",
+				"dept_id" : "32",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 625.2
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 42.0
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 361422.91
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Art Museum",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CONTRIBUTIONS-GOV & NON-PROF NOT ED 0517",
+								"size" : 2300000.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Department Of Finance",
+				"dept_id" : "35",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 9930128.1
+							},
+							{	"name" : "WORKER'S COMP-DISABILITY COMP       0187",
+								"size" : 32196066.91999998
+							},
+							{	"name" : "WORKER'S COMP-MEDICAL               0188",
+								"size" : 23900892.30999999
+							},
+							{	"name" : "MEDICARE TAX                        0189",
+								"size" : 18521529.320000008
+							},
+							{	"name" : "PENSION-OBLIGATION BOND PAYMENTS    0190",
+								"size" : 104028241.55000006
+							},
+							{	"name" : "PENSION-ACTUAL                      0191",
+								"size" : 438508087.320002
+							},
+							{	"name" : "FICA TAXES                          0192",
+								"size" : 47888263.68000003
+							},
+							{	"name" : "MEDICAL HEALTH & WELFARE CREDIT     0193",
+								"size" : 339794266.6799984
+							},
+							{	"name" : "GROUP LIFE INSURANCE                0194",
+								"size" : 7709491.25000002
+							},
+							{	"name" : "GROUP LEGAL INSURANCE               0195",
+								"size" : 3829656.73
+							},
+							{	"name" : "UNEMPLOYMENT COMP INSURANCE         0196",
+								"size" : 5757992.86
+							},
+							{	"name" : "AUTO MECHANIC TOOL INSURANCE        0197",
+								"size" : 91825.0
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 727.1599999999997
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 43698.29999999998
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 235.8
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 16030.779999999999
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 1598.51
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1048595.35
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 1347139.0499999998
+							},
+							{	"name" : "ACCOUNTING AND AUDITING SERVICES    0252",
+								"size" : 50000.0
+							},
+							{	"name" : "LEGAL SERVICES                      0253",
+								"size" : 37082611.99999999
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 79752.15
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 10746.0
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 15608.150000000001
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 48819.69999999999
+							},
+							{	"name" : "WITNESS FEES                        0277",
+								"size" : 103175.96999999994
+							},
+							{	"name" : "INSURANCE AND OFFICIAL BONDS        0280",
+								"size" : 1143366.09
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 17.33
+							},
+							{	"name" : "PAYMENTS FOR BURIALS AND GRAVES     0298",
+								"size" : 112375.0
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 1116.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 17008.62
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 465.08
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 24646.290000000005
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 11107.129999999997
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 24754.92
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 709.0
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 7811.32
+							}
+
+						]
+					},
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "MERITORIOUS AWARDS                  0504",
+								"size" : 28000.0
+							},
+							{	"name" : "CONTRIBUTIONS-ED & NON-PROF REC ORG 0505",
+								"size" : 74339207.0
+							},
+							{	"name" : "REFUNDS                             0512",
+								"size" : 382.2199999999999
+							},
+							{	"name" : "CONTRIBUTIONS-GOV & NON-PROF NOT ED 0517",
+								"size" : 2393861.25
+							},
+							{	"name" : "AUTO - MOTOR VEHICLE                0561",
+								"size" : 4967271.4799999995
+							},
+							{	"name" : "HIGHWAY FALLS                       0563",
+								"size" : 1331730.82
+							},
+							{	"name" : "SIDEWALK FALLS                      0564",
+								"size" : 3939408.53
+							},
+							{	"name" : "OTHER NON-AUTOMOTIVE                0569",
+								"size" : 5037086.1899999995
+							},
+							{	"name" : "AUTO -- MOTOR VEHICLE               0571",
+								"size" : 1000.0
+							},
+							{	"name" : "DEMOLITION DAMAGES                  0572",
+								"size" : 136617.6
+							},
+							{	"name" : "OTHER NON-AUTOMOTIVE                0579",
+								"size" : 24071.0
+							},
+							{	"name" : "CIVIL RIGHTS                        0581",
+								"size" : 14333893.129999999
+							},
+							{	"name" : "CONTRACT CLAIMS-CITY BREACH CONTRCT 0583",
+								"size" : 2056481.0
+							},
+							{	"name" : "EMPLOYEE CLAIMS -- NOT WORKMAN COMP 0584",
+								"size" : 11165.0
+							},
+							{	"name" : "TOWING -- ABANDONED VEHICLES        0586",
+								"size" : 4750.0
+							},
+							{	"name" : "CIVIL RIGHTS - ATTORNEY FEES        0588",
+								"size" : 313812.6
+							},
+							{	"name" : "OTHER MISCELLANEOUS CLAIMS          0589",
+								"size" : 45337.41
+							}
+
+						]
+					},
+					{	"name" : "Class 000: ",
+						"sub_object_code" : "000",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AUTO-MOTOR VEHICLE-NON-PUNITIVE DAM 0561",
+								"size" : 7690.16
+							},
+							{	"name" : "HIGHWAY FALLS- NON-PUNITIVE DAMAGES 0563",
+								"size" : 50.0
+							},
+							{	"name" : "AUTO-MOTOR VEHICLE/NON-PUNITIVE DAM 0571",
+								"size" : 244460.24000000005
+							},
+							{	"name" : "FIRE DAMAGE - NON-PUNITIVE DAMAGES  0573",
+								"size" : 1000.0
+							},
+							{	"name" : "POTHOLE DAMAGES-NON-PUNITIVE DAMAGE 0578",
+								"size" : 18109.559999999998
+							},
+							{	"name" : "OTHER NON-AUTOMOTIVE/NON-PUNITIVE   0579",
+								"size" : 106970.54
+							},
+							{	"name" : "CIVIL RIGHTS - NON-PUNITIVE DAMAGES 0581",
+								"size" : 11479.93
+							},
+							{	"name" : "EMPLOYEE CLAIMS-NONWORKCOMP/NON-PUN 0584",
+								"size" : 8578.98
+							},
+							{	"name" : "TOWING - OTHER NON-PUNITIVE DAMAGES 0587",
+								"size" : 2760.0
+							},
+							{	"name" : "OTHER MISC CLAIMS - NON-PUNITIVE    0589",
+								"size" : 3116.9
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Revenue Department",
+				"dept_id" : "36",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 2021527.7000000007
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 14526.150000000001
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 387.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1114395.2900000007
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 25915.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 12691.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 6507.0
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 4502.55
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 283217.02000000014
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 821.12
+							},
+							{	"name" : "GROUND AND BUILDING RENTAL          0284",
+								"size" : 1900.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 8756.079999999996
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 14726.98
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 274.06
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 1142.79
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 220.52
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 67.5
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 632.1800000000001
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 154304.15
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 16167.2
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 229752.43999999997
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 2273.73
+							},
+							{	"name" : "JANITORIAL AND LAUNDRY              0418",
+								"size" : 87.11
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 34362.3
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 42019.0
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 3016.08
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 13441001.86
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Sinking Fund Commission",
+				"dept_id" : "37",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 4500.0
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 1554.0
+							},
+							{	"name" : "LEASE PAYMENTS-PHILA MUNICIPAL AUTH 0281",
+								"size" : 28835456.64
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 60870039.040000014
+							}
+
+						]
+					},
+					{	"name" : "Class 700: Debt Service",
+						"sub_object_code" : "700",
+						"size" : 0,
+						"children" : [
+							{	"name" : "INTEREST ON CITY DEBT -- LONG-TERM  0701",
+								"size" : 65897662.779999994
+							},
+							{	"name" : "PRINCIPAL PAYMENTS ON CITY DEBT-L/T 0702",
+								"size" : 40745000.0
+							},
+							{	"name" : "INTEREST ON CITY DEBT - SHORT-TERM  0703",
+								"size" : 1937978.14
+							},
+							{	"name" : "SINKING FUND RESERVE PAYMENT        0704",
+								"size" : 1166204.22
+							},
+							{	"name" : "COMMITMENT FEE EXPENSE              0705",
+								"size" : 1587131.2599999998
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Procurement Department",
+				"dept_id" : "38",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 2474.26
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 24.83
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 2352422.3100000015
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1037.5
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 1375.5
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 150.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 17463.460000000003
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 800.66
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 6881.94
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 169.12
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 13147.130000000003
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 4791.02
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 60.5
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 12.0
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 235.0
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 2186310.3699999996
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "City Treasurer",
+				"dept_id" : "40",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 811276.4199999999
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 26.91
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 735.38
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 1089.88
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 419.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 76072.25
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 600.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 120.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 1908.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 21.14
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 3931.5699999999997
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 1188.0
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 209.0
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 474.95
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 714.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "City Representative Office",
+				"dept_id" : "41",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 312.5
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 518000.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 480.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 6114.67
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 10485.880000000001
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 1005.76
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 2685.41
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 2856.0799999999995
+							},
+							{	"name" : "OTHER MATERIALS AND SUPPLIES (NOC)  0399",
+								"size" : 12967.090000000002
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 4390.0
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 337864.82
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Commerce",
+				"dept_id" : "42",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 1398972.18
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 179.97
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 107.61
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 1461.94
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 51.400000000000006
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1644600.34
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 250.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 685.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 1380.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 15015283.230000008
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 1483.22
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 50.4
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 112.68
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 4578.43
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 5827.39
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 993.19
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Law Department",
+				"dept_id" : "44",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 1.0
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 1834.43
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 21451.780000000006
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 419.02
+							},
+							{	"name" : "OVERTIME MEALS                      0231",
+								"size" : 922.25
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 7675.5
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1783017.3400000064
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 49717.82999999999
+							},
+							{	"name" : "LEGAL SERVICES                      0253",
+								"size" : 1716013.1800000002
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 63826.95
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 30260.25
+							},
+							{	"name" : "ARCHITECTURAL & ENGINEERING SRVCS   0257",
+								"size" : 313587.41000000003
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 424507.04000000015
+							},
+							{	"name" : "ARBITRATION FEES                    0259",
+								"size" : 260617.89
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 13016.38
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 692.47
+							},
+							{	"name" : "WITNESS FEES                        0277",
+								"size" : 7665.07
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 50506.56
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 152212.29000000004
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 587.16
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 238.49
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 49581.30999999999
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 21450.0
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 20886.07
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 185.27
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 270.5
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 751.44
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 8508622.689999994
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Board Of Ethics",
+				"dept_id" : "45",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 681105.61
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 2889.31
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 1390.81
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1223.75
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 445.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 3134.0
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 2079.55
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 45.69
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 1325.53
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 422.65
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 1359.4
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 874.6200000000001
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Mayor's Office Of Transportation",
+				"dept_id" : "46",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 30451.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 150.0
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 809992.4
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Youth Commission",
+				"dept_id" : "47",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 23513.93
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 15.06
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 50.8
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 1000.0
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 5288.5
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 27.569999999999997
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 5383.2
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 113.37
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "FOOD                                0313",
+								"size" : 28.56
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 1449.8300000000002
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 940.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Office Of The Inspector General",
+				"dept_id" : "48",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 5435.910000000001
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 209.91
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 722.7800000000001
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 77063.9
+							},
+							{	"name" : "LEGAL SERVICES                      0253",
+								"size" : 281.13
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 1550.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 9036.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 788.6699999999998
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 486.72
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 11548.26
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 310.35
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 2095.96
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 1160137.88
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Mural Arts Program",
+				"dept_id" : "50",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 426500.0
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 437931.4
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "City Planning Commission",
+				"dept_id" : "51",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 2279374.4599999995
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 357.44999999999993
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 9423.519999999999
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 1295.94
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 12332.28
+							},
+							{	"name" : "ACCOUNTING AND AUDITING SERVICES    0252",
+								"size" : 6000.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 1495.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 8678.8
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 711.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 3105.72
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 30938.93
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0303",
+								"size" : 46.55
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 1234.9300000000005
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 86.04
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 11170.59
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 19409.44
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 853.0
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 649.98
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 239.09
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 169.95
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Free Library Of Phila.",
+				"dept_id" : "52",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 12470.0
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 637867.2600000004
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 20787.979999999996
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 62.0
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 83519.68
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 11263.049999999997
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 427799.83
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 23085.5
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 5453.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 531894.7699999999
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 100098.07
+							},
+							{	"name" : "RENT/LEASE-PURCHASE COMPUTER EQUIP  0282",
+								"size" : 310574.43000000005
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 62408.91000000011
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+								"size" : 536.27
+							},
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 1500.0
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 2127.79
+							},
+							{	"name" : "LIBRARY MATERIALS                   0306",
+								"size" : 1545425.049999998
+							},
+							{	"name" : "CHEMICALS AND GASES                 0307",
+								"size" : 14.33
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 7957.180000000002
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 9508.66
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 931.3199999999999
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 7976.49
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 921.36
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 48971.130000000005
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 97534.83000000003
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 715.0
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+								"size" : 1123.6799999999998
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 13313.41
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 42480.24000000002
+							},
+							{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+								"size" : 69.39
+							},
+							{	"name" : "GASOLINE                            0345",
+								"size" : 330.0
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 139.98
+							},
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 2215.7
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 199.94
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 24303.199999999997
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 12311.88
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 28503195.150000043
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Human Relations Commission",
+				"dept_id" : "54",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 1100.0
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 0.5
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 3757.98
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 455.39
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 3416.8299999999995
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 1864.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 7093.0
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 9193.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 2352.2400000000007
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 478.0
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 93.89
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 7305.590000000001
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 551.0
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 1840617.96
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Civil Service Commission",
+				"dept_id" : "55",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 142824.0
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 29500.000000000007
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 151.57
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Personnel Department",
+				"dept_id" : "56",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 16846.17
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 154666.99999999997
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 17444.53
+							},
+							{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+								"size" : 10798.6
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 402345.52999999997
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 21936.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 9492.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 545.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 12270.389999999996
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 39307.65999999999
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 7625.92
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 550.0
+							},
+							{	"name" : "HOSPITAL AND LABORATORY             0317",
+								"size" : 8249.08
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 16352.85
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 3900.14
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 2082.2
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 4283971.450000003
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Zoning Code Commission",
+				"dept_id" : "57",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 59195.44
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 83.7
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 118672.01999999999
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0303",
+								"size" : 145.0
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 1290.8200000000002
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Office Of Arts & Culture",
+				"dept_id" : "58",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 205603.65
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 162.15
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 390800.0
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 250.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 198.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 1220.94
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 1886.06
+							}
+
+						]
+					},
+					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+						"sub_object_code" : "500",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CONTRIBUTIONS-ED & NON-PROF REC ORG 0505",
+								"size" : 230688.0
+							},
+							{	"name" : "CONTRIBUTIONS-GOV & NON-PROF NOT ED 0517",
+								"size" : 1840000.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Office Of Property Assessments",
+				"dept_id" : "59",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 7031293.390000001
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "REFUSE/GARBAGE/SILT/SLUDGE REMOVAL  0205",
+								"size" : 2536.2
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 1.6
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 183209.15999999997
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 3451.54
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 74930.43999999999
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 237692.1
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 59391.75
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 13632.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 9900.0
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 3567.5
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 15892.530000000006
+							},
+							{	"name" : "GROUND AND BUILDING RENTAL          0284",
+								"size" : 2500.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 8675.139999999998
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 107.75
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 23625.47
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 614.51
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 31130.82
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 11370.61
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 6570.12
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 16628.0
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 2519.1
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 190702.16
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "City Controller's Office",
+				"dept_id" : "61",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 722.24
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 275.59000000000003
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 2014.3000000000002
+							},
+							{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+								"size" : 229.5
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 882.3100000000001
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 143678.75
+							},
+							{	"name" : "ACCOUNTING AND AUDITING SERVICES    0252",
+								"size" : 541067.32
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 7130.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 45517.43000000001
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 2101.3
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 17900.030000000006
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 6847220.049999998
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Board Of Revision Of Taxes",
+				"dept_id" : "63",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 474228.4800000001
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 1676.25
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 330.0
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 8465.6
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 2450.25
+							},
+							{	"name" : "RENTAL OF PARKING SPACES            0286",
+								"size" : 5040.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 567.8199999999999
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 1311.9999999999998
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 830.98
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 661.0
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 4140.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Register Of Wills",
+				"dept_id" : "68",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 3340492.63
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 22446.57
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 1316.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1606.64
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 11414.41
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 691.5
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 338.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 15285.229999999998
+							},
+							{	"name" : "INSURANCE AND OFFICIAL BONDS        0280",
+								"size" : 689.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 628.1600000000001
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 133.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 13039.769999999999
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 5265.76
+							},
+							{	"name" : "OTHER MATERIALS AND SUPPLIES (NOC)  0399",
+								"size" : 622.56
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 3529.0
+							},
+							{	"name" : "PRINTING AND BINDING                0425",
+								"size" : 23.0
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 9862.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "District Attorney's Office",
+				"dept_id" : "69",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PURCHASE OF SERVICES CONTROL        0200",
+								"size" : 519.7
+							},
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 23500.0
+							},
+							{	"name" : "TELEPHONE                           0209",
+								"size" : 1092.5
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 116582.45000000007
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 26866.670000000006
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 110574.48999999999
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 1258.07
+							},
+							{	"name" : "OVERTIME MEALS                      0231",
+								"size" : 1642.32
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1051528.4200000064
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 9445.220000000001
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 2925.0
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 1030.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 51395.28000000008
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 69085.37000000001
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 6891.55
+							},
+							{	"name" : "RENTAL OF PARKING SPACES            0286",
+								"size" : 8140.0
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 39208.490000000005
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 46424.18
+							},
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 23000.0
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 1180.34
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 158.08
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 219718.0000000001
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 121643.14
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 45666.46
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE EQUIPMENT                    0420",
+								"size" : 3197.6499999999996
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 2729.0
+							}
+
+						]
+					},
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 28077886.799999975
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Sheriff",
+				"dept_id" : "70",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 15444191.120000007
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "CLEANING AND LAUNDERING             0201",
+								"size" : 63700.0
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 184346.45999999988
+							},
+							{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+								"size" : 6930.0
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 189419.25
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 2414.2
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 10890.389999999992
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+								"size" : 116734.14999999997
+							},
+							{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+								"size" : 11227.1
+							},
+							{	"name" : "FOOD                                0313",
+								"size" : 125608.0
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 17173.67
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 684.36
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 4807.6
+							},
+							{	"name" : "GASOLINE                            0345",
+								"size" : 29006.920000000002
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 3872.0
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 4128.0
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "City Commissioners",
+				"dept_id" : "73",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 5319677.970000001
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "JANITORIAL SERVICES                 0202",
+								"size" : 11718.64
+							},
+							{	"name" : "POSTAGE                             0210",
+								"size" : 395665.62
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 341413.06000000006
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : -1.1368683772161603e-13
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 1820986.6600000001
+							},
+							{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+								"size" : 527.1
+							},
+							{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+								"size" : 743.0
+							},
+							{	"name" : "COURT REPORTERS                     0258",
+								"size" : 12573.900000000001
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 188166.2300000001
+							},
+							{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+								"size" : 100000.0
+							},
+							{	"name" : "RENTS                               0285",
+								"size" : 177840.86
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 0.0
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+								"size" : 2497.0
+							},
+							{	"name" : "BUILDING AND CONSTRUCTION           0305",
+								"size" : 450.0
+							},
+							{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+								"size" : 90178.81999999999
+							},
+							{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+								"size" : 6420.59
+							},
+							{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+								"size" : 3968.2000000000003
+							},
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 77254.32000000004
+							},
+							{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+								"size" : 2387.5
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+								"size" : 15782.86
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 304144.7
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+								"size" : 915.0
+							},
+							{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+								"size" : 6355.8
+							},
+							{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+								"size" : 742.52
+							},
+							{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+								"size" : 1124.0
+							},
+							{	"name" : "FURNITURE AND FURNISHINGS           0430",
+								"size" : 5051.92
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "First Judicial District",
+				"dept_id" : "84",
+				"size" : 0,
+				"children" : [
+					{	"name" : "Class 100: Personal Services and Fringe Benefits",
+						"sub_object_code" : "100",
+						"size" : 0,
+						"children" : [
+							{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+								"size" : 90842663.53000012
+							},
+							{	"name" : "GROUP LIFE INSURANCE                0194",
+								"size" : 0.0
+							}
+
+						]
+					},
+					{	"name" : "Class 200: Purchase of Services",
+						"sub_object_code" : "200",
+						"size" : 0,
+						"children" : [
+							{	"name" : "POSTAGE                             0210",
+								"size" : 43.99999999999977
+							},
+							{	"name" : "TRANSPORTATION                      0211",
+								"size" : 1019.0
+							},
+							{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+								"size" : 1100.28
+							},
+							{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+								"size" : 34516.25000000013
+							},
+							{	"name" : "LEGAL SERVICES                      0253",
+								"size" : 8634283.450000005
+							},
+							{	"name" : "DUES                                0255",
+								"size" : 185.0
+							},
+							{	"name" : "ARBITRATION FEES                    0259",
+								"size" : 754750.0
+							},
+							{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+								"size" : 8794.449999999999
+							},
+							{	"name" : "JUROR FEES                          0275",
+								"size" : 1411729.0
+							},
+							{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+								"size" : 15528524.740000002
+							}
+
+						]
+					},
+					{	"name" : "Class 300: Materials and Supplies",
+						"sub_object_code" : "300",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+								"size" : 0.0
+							},
+							{	"name" : "PRINTING                            0325",
+								"size" : 2278.0
+							},
+							{	"name" : "OTHER MATERIALS AND SUPPLIES (NOC)  0399",
+								"size" : 2017598.95
+							}
+
+						]
+					},
+					{	"name" : "Class 400: Equipment",
+						"sub_object_code" : "400",
+						"size" : 0,
+						"children" : [
+							{	"name" : "OTHER EQUIPMENT (NOC)               0499",
+								"size" : 790574.9999999999
+							}
+
+						]
+					}
+
+				]
+			}
+
+		]
+	}

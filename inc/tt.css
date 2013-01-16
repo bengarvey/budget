@@ -1,30 +1,32 @@
 #tt {
  position:absolute;
  display:block;
- background:url(../images/tt_left.gif) top left no-repeat;
+/*  background:url(../images/tt_left.gif) top left no-repeat; */
  }
 
-/*
+
  #tttop {
  display:block;
  height:5px;
  margin-left:5px;
- background:url(../images/tt_top.gif) top right no-repeat;
+ /*background:url(../images/tt_top.gif) top right no-repeat; */
  overflow:hidden;
  }
+
  #ttcont {
  display:block;
  padding:2px 12px 3px 7px;
  margin-left:5px;
  background:#666;
  color:#fff;
+ -moz-border-radius: 5px;
+ border-radius: 5px;
  }
 #ttbot {
 display:block;
 height:5px;
 margin-left:5px;
-background:url(../images/tt_bottom.gif) top right no-repeat;
+/* background:url(../images/tt_bottom.gif) top right no-repeat; */
 overflow:hidden;
 }
 
-*/

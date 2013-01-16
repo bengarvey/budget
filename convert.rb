@@ -22,9 +22,11 @@ class BudgetItem
   def to_sql
 
     # Hide Amex numbers
-    if (@vendor_name  == "AMERICAN EXPRESS") 
-      @transaction_description.gsub!(/\d/, "");
+    if (@transaction_description != nil && @vendor_name  == "AMERICAN EXPRESS" || @vendor_name == "BANK OF AMERICA") 
+      @transaction_description.gsub!(/\*.*\*/, "");
     end
+
+    
 
     return "INSERT INTO expenses (`created`, `year`, `department_title`, `department_id`, `sub_object_title`, `sub_object_code`, `vendor_name`, `transaction_description`, `last_name`, `first_name`, `middle_initial`, `pay_class_title`, `total_expenditures`) VALUES (NOW(), '#{@year}','#{@department_title.to_s.gsub(/\\/,'\&\&').gsub(/'/,"''")}', '#{@department_id}', '#{@sub_object_title.to_s.gsub(/'/, "''")}', '#{@sub_object_code}', '#{@vendor_name.to_s.gsub(/\\/, '\&\&').gsub(/'/, "''")}', '#{@transaction_description.to_s.gsub(/\\/, '\&\&').gsub(/'/, "''")}', '#{@last_name.to_s.gsub(/\\/, '\&\&').gsub(/'/, "''")}', '#{@first_name.to_s.gsub(/\\/, '\&\&').gsub(/'/, "''")}', '#{@middle_initial.to_s.gsub(/\\/, '\&\&').gsub(/'/, "''")}', '#{@pay_class_title.to_s.gsub(/\\/, '\&\&').gsub(/'/, "''")}', #{@total_expenditures.gsub(/,/, "")});"
   end

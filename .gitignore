@@ -4,3 +4,4 @@ config-ben.yml
 data2/*
 data/data*
 *.swp*
+_*

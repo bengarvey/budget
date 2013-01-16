@@ -417,6 +417,9 @@
       var search  = $('#search').val();
       var url     = "";
 
+      // Replace any ampersands
+      desc = desc.replace(/&/g, '%26');
+
       $('#working').activity();
       
       if (dept == "") {    
@@ -426,7 +429,7 @@
         url = "jrequest.rb?dept=" + dept + "&cat=" + cat + "&desc=" + desc;
       }
 
-      alert(url);
+      //alert(url);
  
       $('#resultstable').empty();
       $('#resultstable').append('<tbody></tbody>');
