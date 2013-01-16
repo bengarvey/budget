@@ -91,7 +91,7 @@ class Request
             #puts x[0,1] + "<br>" # Wow, didn't know you couldn't use just x[0] in Ruby 1.8
             statement += "#{Mysql.escape_string(key.to_s)} like '#{Mysql.escape_string(x.to_s[0,1])}%' and "
           else
-            statement += "#{Mysql.escape_string(key.to_s)} like '#{Mysql.escape_string(x.to_s)}%' and "
+            statement += "#{Mysql.escape_string(key.to_s)} = '#{Mysql.escape_string(x.to_s)}%' and "
           end
         end
       end        
