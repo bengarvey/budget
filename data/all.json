@@ -3016,6 +3016,7 @@
 			},
 			{	"name" : "Art Museum",
 				"value" : 0,
+        "dept_id" : "34",
 				"children" : [
 					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
 						"sub_object_code" : "500",
