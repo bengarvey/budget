@@ -405,12 +405,12 @@
 
       // Check to make sure we'll get back something.
       if(evt.target.__data__.children == undefined) {
-        updateResults(g.dept_id, p.sub_object_code, n.name);
+        updateResults(g.dept_id, p.sub_object_code, n.name,0);
       }
     }
  
     // Update the search results with what we've clicked down to
-    function updateResults(dept, cat, desc) {
+    function updateResults(dept, cat, desc, page) {
       var html    = "";
       var khtml   = "";
       var first   = true;
@@ -423,17 +423,18 @@
       $('#working').activity();
       
       if (dept == "") {    
-        url = "jrequest.rb?search0=" + $('#search').val();
+        url = "jrequest.rb?search0=" + $('#search').val() + "&page=" + page;
       }
       else {
-        url = "jrequest.rb?dept=" + dept + "&cat=" + cat + "&desc=" + desc;
+        url = "jrequest.rb?dept=" + dept + "&cat=" + cat + "&desc=" + desc + "&page=" + page;
       }
 
       //alert(url);
- 
-      $('#resultstable').empty();
-      $('#resultstable').append('<tbody></tbody>');
-      
+
+      if (page == 0) { 
+        $('#resultstable').empty();
+        $('#resultstable').append('<tbody></tbody>');
+      }
       // Update our results table with the new search results
       $.ajax({
           url: url,
@@ -441,6 +442,18 @@
           success: 
             function(data) {
              $('#searchtitle').html("Search Results");
+
+             var counttext = "Found " + data.length + " results";
+             $('#more').empty();
+             if (data.length == 1) {
+              counttext = counttext.slice(0, -1);
+             }
+             else if (data.length > 500) {
+               counttext = "Found more than 500 results. Scroll down for more.";
+               $('#more').html("<input value='View 500 more results' type=button onclick='updateResults(\"" + dept + "\",\"" + cat + "\",\"" + desc + "\",\"" + (parseInt(page) + 1) + "\")'>");
+             }
+    
+             $('#searchcount').html(counttext);
 
               if (data == "") {
                 $('#resultstable').html("No results found");
@@ -459,12 +472,14 @@
                var rowhtml = "";
                var khtml = "";
 
-                for (k in keys) {
-                  khtml += "<th>" + keys[k] + "</th>";
-                }
+                if (page == 0) {
+                  for (k in keys) {
+                    khtml += "<th>" + keys[k] + "</th>";
+                  }
 
-                khtml = "<tr>" + khtml + "</tr>";
-                $('#resultstable tbody:first').append(khtml); 
+                  khtml = "<tr>" + khtml + "</tr>";
+                  $('#resultstable tbody:first').append(khtml); 
+                }
 
                 for (d in data) {
                   rowhtml = "";
@@ -505,18 +520,20 @@
       <li><a href="#helpmodal" role="button" data-toggle="modal">Help</a></li>
     </ul>
     <p id="chart"></p>
-    <form class="form-search" onsubmit="return(updateResults('','',''));" id="searchform" action="#" name="searchform">
+    <form class="form-search" onsubmit="return(updateResults('','','', 0));" id="searchform" action="#" name="searchform">
       <label for="search">Search for individual budget items</label><br>
       <input type="text" placeholder="Search text" id="search" class="search-query">
-      <input type="button" class="btn" value="Submit" onclick="updateResults('','','')">
+      <input type="button" class="btn" value="Submit" onclick="updateResults('','','',0)">
     </form>
     <h2 id="searchtitle"></h2>
+    <div id="searchcount"></div>
     <div id="working"></div>    
     <div id="results">
       <table class="table table-hover" id="resultstable">
       <tbody></tbody>
       </table>
     </div>
+    <div id=more></div>
     <div id=debug></div>
 
     <div class="disclaimer">DISCLAIMER: The material on this site is made available as a public service. The data are to be used for reference purposes only. Data are provided by the City of Philadelphia through requests pursuant to the Right to Know Law.  Although the data are believed to be accurate, The Committee to Elect Brett Mandel and Brett Mandel, along with their agents, consultants, contractors, and employees, provide this data AS IS without warranty of any kind, implied or expressed, as to the information being accurate or complete. With knowledge of the foregoing, each visitor to this website agrees to waive, release, and indemnify The Committee to Elect Brett Mandel and Brett Mandel, along with their agents, consultants, contractors and employees, from any and all claims, actions, or causes of action for damages or injury to persons or property arising from his/her use or inability to use this data.  If you encounter an error, please email <a href="mailto:mandelforcontroller@gmail.com">mandelforcontroller@gmail.com</a> and describe the problem in detail.</div>

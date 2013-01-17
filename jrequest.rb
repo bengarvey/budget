@@ -108,7 +108,7 @@ class Request
 
 
     statement = statement.chomp(' and ')
-    statement += " order by vendor_name, last_name, first_name LIMIT #{@page*502}, #{(@page+1)*502}"
+    statement += " order by vendor_name, last_name, first_name LIMIT #{@page*502}, 502"
     #puts statement + "<br>"
     return statement
 
