@@ -440,7 +440,6 @@
           dataType: 'json',
           success: 
             function(data) {
-             $('#working').activity(false);
              $('#searchtitle').html("Search Results");
 
               if (data == "") {
@@ -457,10 +456,18 @@
 
                orderedKeys.sort ();
                keys = orderedKeys;
+               var rowhtml = "";
+               var khtml = "";
+
+                for (k in keys) {
+                  khtml += "<th>" + keys[k] + "</th>";
+                }
+
+                khtml = "<tr>" + khtml + "</tr>";
+                $('#resultstable tbody:first').append(khtml); 
 
                 for (d in data) {
-                  var rowhtml = "";
-
+                  rowhtml = "";
                   for (k in keys) {
                     if (keys[k] == "Total Expenditures") {
                       rowhtml += "<td>" + accounting.formatMoney(data[d][keys[k]]) + "</td>";
@@ -468,21 +475,13 @@
                     else {
                       rowhtml += "<td>" + data[d][keys[k]] + "</td>";
                     }
-
-
-                     if (first) {
-                      khtml += "<th>" + keys[k] + "</th>";
-                     }
                   }
-                  if (first) {
-                    khtml = "<tr>" + khtml + "</tr>";
-                    $('#resultstable tbody:first').append(khtml); 
-                    first = false;
-                  }
-                  rowhtml = "<tr>" + rowhtml + "</tr>\n";
-                  $('#resultstable').append( rowhtml );
+                 // rowhtml = "<tr>" + rowhtml + "</tr>\n";
+                  $('#resultstable').append( "<tr>" + rowhtml + "</tr>\n" );
                 }
+                //$('#resultstable').append(rowhtml);
               }
+             $('#working').activity(false);
             },
             timeout: 1000*60*10,
           error: 

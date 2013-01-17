@@ -24,6 +24,7 @@ class Request
     #puts "Request object created<br>"
     @params     = Hash.new
     @andparams  = Hash.new
+    @page       = 0
   
     # whitelisting our columns
     columns = Array.new
@@ -35,6 +36,14 @@ class Request
       @andparams[v]   = Array.new
     end 
 
+  end
+
+  def setPage(p)
+    @page = p.to_i
+  end
+
+  def getPage
+    return @page
   end
 
   def getParams
@@ -99,7 +108,7 @@ class Request
 
 
     statement = statement.chomp(' and ')
-    statement += " order by vendor_name, last_name, first_name"
+    statement += " order by vendor_name, last_name, first_name LIMIT #{@page*502}, #{(@page+1)*502}"
     #puts statement + "<br>"
     return statement
 
@@ -163,6 +172,10 @@ cols = req.getParams()
   end
   c += 1
 #end
+
+if (cgi["page"] != "")
+  req.setPage(cgi["page"])
+end
 
 if (cgi["dept"] != "") 
   req.addAnd('department_id', cgi["dept"])
