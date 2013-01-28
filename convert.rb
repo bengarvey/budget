@@ -124,7 +124,7 @@ class BudgetPrinter
   # Accepts a budget item and returns a json structure for the budget data
   def writeJSONToFile(b)
     count = 0
-    File.open('data/all-class.json', 'w') do |json|  
+    File.open('data/all.json', 'w') do |json|  
       json.puts b.getJSON("\t").chomp(",\n")
     end
   end
@@ -274,14 +274,14 @@ CSV.foreach("data/philadelphia-2012-budget.csv") do |row|
         b.name = row[7].to_s + " " + row[8].to_s + " " + row[9].to_s + " " + row[10].to_s + " " + row[11].to_s + " " + row[12].to_s
         
         
-        tertiary   = "#{dept[row[1]]}"  
+        primary   = "#{dept[row[1]]}"  
 
         # The script is getting the 4th item of the row array and looking at the first character
-        primary = row[3][0] + "00" # Changes the subobject code to the code type, (e.g. 125 becomes 200)    
+        secondary  = row[3][0] + "00" # Changes the subobject code to the code type, (e.g. 225 becomes 200)    
         # Now translate it into the proper sub object code
-        primary = "Class #{primary}: #{suc[primary]}";
+        secondary = "Class #{secondary}: #{suc[secondary]}";
 
-        secondary  = row[4]
+        tertiary  = row[4]
         
         # Now we're consolidating all detailed values
         b.name = tertiary
@@ -429,6 +429,7 @@ CSV.foreach("data/philadelphia-2012-budget.csv") do |row|
 
   if (!sql)
     # Now that we built out budget object, create the budget printer and write to file
+    puts "Creating json file..."
     bp = BudgetPrinter.new
     bp.writeJSONToFile(budget)
   end

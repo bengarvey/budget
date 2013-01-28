@@ -25,13 +25,40 @@
         font-size:  70%;
       }
 
-      /*  c = {'100' : '#B2C2D1', '200' : '#F76e4a', '300' : '#efdfbb', '400' : '#335d6b', '500' : '#7aBa7f', '600' : '#5CADFF', '700' : '#88898b', '800' : '#FF99CC', '900' : '#99FFCC', '1000' : '#FF8F1F'};
-     */
-
-      .100 {
+      .c100 {
         background-color: #B2C2D1;
       }
-      
+
+      .c200 {
+        background-color: #F76e4a;
+      }
+
+      .c300 {
+        background-color: #efdfbb;
+      }
+
+      .c400 {
+        color:  #ddd;
+        background-color: #335d6b;
+      }
+
+      .c500 {
+        background-color: #7aBa7f;
+      }
+
+      .c700 { 
+        color:  #ddd;
+        background-color: #88898b;
+      }
+
+      .c800 {
+        background-color: #ff99cc;
+      }
+
+      .c900 {
+        background-color: #99ffcc;
+      }
+
       .about {
         color:  #555;
         font-size:  80%;
@@ -437,7 +464,7 @@
       }
 
       //alert(url);
-      //$('#debug').html(url);
+     // $('#debug').html(url);
 
       if (page == 0) { 
         $('#resultstable').empty();
@@ -555,17 +582,17 @@
     <div class="modal-body">
     <h4>Mandel for Controller Bulldog Budget</h4>
     <p>The Mandel for Controller Bulldog Budget allows users, for the first time ever, to see how every single dollar of our money was spent from the Philadelphia city budget.  You can dig for information like a dog digs for a bone, but before you do, a note on navigation.</p>
-        
+    <p>The fiscal year 2012 covered by this site ran from July 1, 2011 to June 30, 2012</p>    
     <p>The Philadelphia budget is adopted by City Council each year with expenditures approved by agency and by "class" and classes refer to:<br>
-    <div class="100">Class 100 - Salaries and fringe benefits</div></div>
-    <div class="200">Class 200 - Contracts for the purchase of services and leases</div>
-    <div class="300">Class 300 - Materials and supplies</div>
-    <div class="400">Class 400 - Equipment</div>
-    <div class="500">Class 500 - Contributions and indemnities (payments for compensation by the city)</div>
-    <div class="600">Class 600 - Not used in this budget</div>
-    <div class="700">Class 700 - Debt Service (payments for long-term loans/bonds)</div>
-    <div class="800">Class 800 - Payments to other funds</div>
-    <div class="900">Class 900 - Advances and miscellaneous payment</div>
+    <div class="c100">Class 100 - Salaries and fringe benefits</div>
+    <div class="c200">Class 200 - Contracts for the purchase of services and leases</div>
+    <div class="c300">Class 300 - Materials and supplies</div>
+    <div class="c400">Class 400 - Equipment</div>
+    <div class="c500">Class 500 - Contributions and indemnities (payments for compensation by the city)</div>
+    <div class="c600">Class 600 - Not used in this budget</div>
+    <div class="c700">Class 700 - Debt Service (payments for long-term loans/bonds)</div>
+    <div class="c800">Class 800 - Payments to other funds</div>
+    <div class="c900">Class 900 - Advances and miscellaneous payment</div>
     </p>
     <p>The city budget ordinance passed by City Council shows only how much money is allocated to each city agency and how that money is divided by class -- how much for personnel, how much for contracts, how much for supplies, and so on.  But, with the <a href="http://brettmandel.com">Mandel for Controller</a> Bulldog Budget you can search for any agency, vendor, or type of expenditure or click through each agency to each class to each type of expenditure to see a list of the actual payments down to the last cent.</p>
     <p>The Bulldog Budget was developed by Brett Mandel and Ben Garvey</p>

@@ -1,4 +1,4 @@
-	{	"name" : "Philadelphia General Fund Budget FY2012",
+	{	"name" : "Philadelphia General Fund Budget Fiscal Year 2012",
 		"value" : 0,
 		"children" : [
 			{	"name" : "",
@@ -3016,7 +3016,6 @@
 			},
 			{	"name" : "Art Museum",
 				"value" : 0,
-        "dept_id" : "34",
 				"children" : [
 					{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
 						"sub_object_code" : "500",
@@ -3228,14 +3227,7 @@
 							},
 							{	"name" : "OTHER MISCELLANEOUS CLAIMS          0589",
 								"value" : 45337.41
-							}
-
-						]
-					},
-					{	"name" : "Class 000: ",
-						"sub_object_code" : "000",
-						"value" : 0,
-						"children" : [
+							},
 							{	"name" : "AUTO-MOTOR VEHICLE-NON-PUNITIVE DAM 0561",
 								"value" : 7690.16
 							},

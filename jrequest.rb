@@ -133,9 +133,9 @@ class Request
       end
       res.free
     rescue Mysql::Error => e
-      puts "Error code: #{e.errno}"
-      puts "Error message: #{e.error}"
-      puts "Error SQLSTATE: #{e.sqlstate}" if e.respond_to?("sqlstate")      
+     # puts "Error code: #{e.errno}"
+     # puts "Error message: #{e.error}"
+     # puts "Error SQLSTATE: #{e.sqlstate}" if e.respond_to?("sqlstate")      
     ensure
       db.close
     end
