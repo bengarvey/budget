@@ -12,14 +12,55 @@
     <link rel="stylesheet" type="text/css" href="inc/tt.css"> 
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-responsive.css">
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
-	    
+  
+    <script src="inc/jquery.tablesorter.min.js"></script>	    
     <script src="inc/jquery.activity-indicator.js"></script> 
     <script src="bootstrap/js/bootstrap.js"></script>
     <script src="bootstrap/js/bootstrap-transition.js"></script>
     <script src="bootstrap/js/bootstrap-tooltip.js"></script>
     <style>
       @import url("inc/style.css");
-
+      
+      /* tables */
+      table.tablesorter {
+        font-family:arial;
+        background-color: #CDCDCD;
+        margin:10px 0pt 15px;
+        font-size: 8pt;
+        width: 100%;
+        text-align: left;
+      }
+      table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+        background-color: #e6EEEE;
+        border: 1px solid #FFF;
+        font-size: 8pt;
+        padding: 4px;
+      }
+      table.tablesorter thead tr .header {
+        background-image: url("images/bg.gif");
+        background-repeat: no-repeat;
+        background-position: center right;
+        cursor: pointer;
+      }
+      table.tablesorter tbody td {
+        color: #3D3D3D;
+        padding: 4px;
+        background-color: #FFF;
+        vertical-align: top;
+      }
+      table.tablesorter tbody tr.odd td {
+        background-color:#F0F0F6;
+      }
+      table.tablesorter thead tr .headerSortUp {
+        background-image: url("images/asc.gif");
+      }
+      table.tablesorter thead tr .headerSortDown {
+        background-image: url("images/desc.gif");
+      }
+      table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+      background-color: #8dbdd8;
+      }
+      
       .disclaimer {
         color:  #999;
         font-size:  70%;
@@ -163,7 +204,19 @@
 	    if (ie < 9) {	
 		    alert("This site requires a modern web browser.  Please install Google Chrome, Mozilla Firefox, Apple Safari, or Internet Explorer 9 or higher.");
 	    }
-		   
+
+      // Check to see if we're searching for something right away (e.g. from a linked url)
+      var linksearch = getParameterByName("search");
+      
+      // If so, search away
+      if (linksearch != null) {
+   
+        // Set search box and run the query
+        $('#search').val(linksearch);
+        updateResults('','','',0);
+      } 
+		  
+
       var margin = {top: 30, right: 0, bottom: 0, left: 0},
           width = 960,
           height = 500 - margin.top - margin.bottom,
@@ -442,6 +495,11 @@
         updateResults(g.dept_id, p.sub_object_code, n.name,0);
       }
     }
+
+    function getParameterByName(name) {
+      var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+      return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+    }
  
     // Update the search results with what we've clicked down to
     function updateResults(dept, cat, desc, page) {
@@ -450,6 +508,7 @@
       var first   = true;
       var search  = $('#search').val();
       var url     = "";
+      var linkurl = "";
 
       // Replace any ampersands
       desc = desc.replace(/&/g, '%26');
@@ -457,7 +516,8 @@
       $('#working').activity();
       
       if (dept == "") {    
-        url = "jrequest.rb?search0=" + $('#search').val() + "&page=" + page;
+        url     = "jrequest.rb?search0=" + $('#search').val() + "&page=" + page;
+        linkurl = "http://budget.brettmandel.com/?search=" + $('#search').val();;        
       }
       else {
         url = "jrequest.rb?dept=" + dept + "&cat=" + cat + "&desc=" + desc + "&page=" + page;
@@ -468,7 +528,7 @@
 
       if (page == 0) { 
         $('#resultstable').empty();
-        $('#resultstable').append('<tbody></tbody>');
+        //$('#resultstable').append('');
       }
       // Update our results table with the new search results
       $.ajax({
@@ -477,6 +537,13 @@
           success: 
             function(data) {
              $('#searchtitle').html("Search Results");
+             
+             if (linkurl != "") {
+                // Replace spaces with %20
+                linkurl = linkurl.replace(/\s/g, "%20");
+  
+                $('#linkshare').html("Share this search:  Be sure to use the hashtag <a href=\"https://twitter.com/search/realtime?q=%23bulldogbudget&src=hash\">#bulldogbudget</a><br><input type=\"text\" class=\"input-xxlarge\" value=\"" + linkurl + "\">") 
+             }
 
              var counttext = "Found " + data.length + " results";
              $('#more').empty();
@@ -506,32 +573,77 @@
                keys = orderedKeys;
                var rowhtml = "";
                var khtml = "";
+               var th;
 
                 if (page == 0) {
                   for (k in keys) {
-                    khtml += "<th>" + keys[k] + "</th>";
+      
+                     if (keys[k].match(/Employee.*/) || keys[k].match(/Pay Class Title/)) {
+                     }
+                     else {
+                        khtml += "<th>" + keys[k] + "</th>";
+                     }
                   }
 
-                  khtml = "<tr>" + khtml + "</tr>";
-                  $('#resultstable tbody:first').append(khtml); 
+                  khtml = "<thead><tr>" + khtml + "</tr></thead>";  
+                  //alert(khtml);
+                  document.th = $('#resultstable').append(khtml); 
                 }
 
                 for (d in data) {
                   rowhtml = "";
+                  document.th.append('');
                   for (k in keys) {
                     if (keys[k] == "Total Expenditures") {
-                      rowhtml += "<td>" + accounting.formatMoney(data[d][keys[k]]) + "</td>";
+                      rowhtml += "<td>" + accounting.formatMoney(data[d][keys[k]], "") + "</td>";
+                      //rowhtml += "<td>" + data[d][keys[k]] + "</td>";
+                    }
+                    else if (keys[k].match(/Employee.*/) || keys[k].match(/Pay Class Title/)) {
+
                     }  
                     else {
                       rowhtml += "<td>" + data[d][keys[k]] + "</td>";
                     }
                   }
                  // rowhtml = "<tr>" + rowhtml + "</tr>\n";
-                  $('#resultstable').append( "<tr>" + rowhtml + "</tr>\n" );
+                  document.th.append( "<tr>" + rowhtml + "</tr>\n" );
                 }
-                //$('#resultstable').append(rowhtml);
-              }
+                document.th.append('');
+            
+                  if (page == 0) { 
+                    // add parser through the tablesorter addParser method 
+                    $.tablesorter.addParser({ 
+                        // set a unique id 
+                        id: 'money', 
+                        is: function(s) { 
+                            // return false so this parser is not auto detected 
+                            return false; 
+                        }, 
+                        format: function(s) { 
+                            // format your data for normalization 
+                            //console.log(s);
+                            return s.replace(",",""); 
+                        }, 
+                        // set type, either numeric or text 
+                        type: 'numeric' 
+                    }); 
+                     
+                        $("#resultstable").tablesorter({ 
+                            headers: { 
+                                4: { 
+                                    sorter:'money' 
+                                } 
+                            } 
+                        }); 
+                   }
+                   else {
+                   
+                    $("#resultstable").trigger('update');
+                  }
+                
+                                                          }
              $('#working').activity(false);
+             window.scrollTo(0,$('#searchtitle').position().top - 60);
             },
             timeout: 1000*60*10,
           error: 
@@ -549,10 +661,14 @@
   </head>
   <body onload="javascript:init()">
     <h1><a href="http://brettmandel.com"><img alt="Mandel for Controller" title="Mandel for Controller" src="images/bulldog_logo_blue.jpg"></a></h1>
-    <h1><a href="">Mandel for Controller Bulldog Budget</a></h1> 
+    <h1><a href="http://budget.brettmandel.com">Mandel for Controller Bulldog Budget</a></h1> 
     <ul class="nav nav-pills">
       <li><a href="#aboutmodal" role="button" data-toggle="modal">About</a></li>
       <li><a href="#helpmodal" role="button" data-toggle="modal">Help</a></li>
+      <li><a href="http://brettmandel.com/content/make-donation">Make a Contribution</a></li>
+      <li><a href="http://brettmandel.com/tell-a-friend">Tell a Friend</a></li>
+      <li><a href="http://brettmandel.com/content/contact-brett-mandel">Contact</a></li>
+    </ul>
     </ul>
     <p id="chart"></p>
     <form class="form-search" onsubmit="return(updateResults('','','', 0));" id="searchform" action="#" name="searchform">
@@ -560,12 +676,12 @@
       <input type="text" placeholder="Search text" id="search" class="search-query">
       <input type="button" class="btn" value="Submit" onclick="updateResults('','','',0)">
     </form>
+    <div id="linkshare"></div>    
     <h2 id="searchtitle"></h2>
     <div id="searchcount"></div>
     <div id="working"></div>    
     <div id="results">
-      <table class="table table-hover" id="resultstable">
-      <tbody></tbody>
+      <table id="resultstable" class="tablesorter table table-hover">
       </table>
     </div>
     <div id=more></div>

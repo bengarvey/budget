@@ -1,3 +1,4 @@
+network.html
 *.sql*
 config-brett.yml
 config-ben.yml
@@ -9,3 +10,4 @@ burst.html
 *.txt
 colorgen.rb
 all-class.json
+force-collapsible.html
