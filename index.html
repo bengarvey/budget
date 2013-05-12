@@ -15,6 +15,7 @@
   
     <script src="inc/jquery.tablesorter.min.js"></script>	    
     <script src="inc/jquery.activity-indicator.js"></script> 
+    <script src="inc/jquery.history.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
     <script src="bootstrap/js/bootstrap-transition.js"></script>
     <script src="bootstrap/js/bootstrap-tooltip.js"></script>
@@ -324,6 +325,7 @@
           }
         }
 
+				var HistoryIndex = {};
         function display(d) {
          
           grandparent
@@ -395,7 +397,8 @@
 
             var g2 = display(d),
                 t1 = g1.transition().duration(750),
-                t2 = g2.transition().duration(750);
+                t2 = g2.transition().duration(750),
+                history_key = d.name.replace(/\W+/g, '_');
 
             // Update the domain only after entering new elements.
             x.domain([d.x, d.x + d.dx]);
@@ -415,6 +418,13 @@
             t2.selectAll("text").call(text).style("fill-opacity", 1);
             t1.selectAll("rect").call(rect);
             t2.selectAll("rect").call(rect);
+            
+            if (window.History.enabled && window.location.hash.replace('#', '') != history_key) {
+            	console.log("Window location is currently ", window.location.href, " about to change the history state.");
+            	HistoryIndex[history_key] = [this, d];
+            	window.History.pushState({ page: d.name }, null, '#' + history_key);
+            	console.log("Now window location is ", window.location.href);
+            }
 
             // Remove the old node when the transition is finished.
             t1.remove().each("end", function() {
@@ -422,6 +432,14 @@
               transitioning = false;
             });
           }
+
+          $(window).on('hashchange', function () {
+          	var history_key = window.location.hash.replace('#', ''),
+          		match = HistoryIndex[history_key];
+          	if (match) {
+          		transition.apply(match[0], [match[1]])
+          	}
+          })
 
           return g;
         }
