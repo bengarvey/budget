@@ -41,9 +41,9 @@ class BudgetItem
     # All nodes get a name.  Native support for to_json in Ruby is awesome, btw
     json = "#{tab}{\t\"name\" : #{name.to_json},\n"
   
-    if (department_id.to_json != "null") 
-      json += "#{tab}\t\"dept_id\" : #{department_id.to_json},\n"
-    end
+    #if (department_id.to_json != "null") 
+    #  json += "#{tab}\t\"dept_id\" : #{department_id.to_json},\n"
+    #end
 
      if (sub_object_code.to_json != "null") 
       json += "#{tab}\t\"sub_object_code\" : #{sub_object_code.to_json},\n"
@@ -55,6 +55,11 @@ class BudgetItem
     # The D3 examples I based this off used both size and value for the amount in the tree, that's why they aren't consistent.  I'll fix that later.
     if (size.to_json != "null") 
       json += "#{tab}\t\"value\" : #{size.to_json},\n"
+    end
+
+    if (size == 154044.31)
+      puts "size = #{size}" 
+      puts "DID: #{department_id}"
     end
 
     # If we have kids, add them to the json
@@ -75,6 +80,11 @@ class BudgetItem
       json += "\n#{tab}\t]\n"
 
     else
+
+      if (department_id.to_json != "null") 
+        json += "#{tab}\t\"dept_id\" : #{department_id.to_json},\n"
+      end
+
       # No kids, so close up shop
       json = json.chomp(",\n")
       json += "\n"
@@ -124,7 +134,7 @@ class BudgetPrinter
   # Accepts a budget item and returns a json structure for the budget data
   def writeJSONToFile(b)
     count = 0
-    File.open('data/all-cat.json', 'w') do |json|  
+    File.open('data/all-by-cat.json', 'w') do |json|  
       json.puts b.getJSON("\t").chomp(",\n")
     end
   end
@@ -307,7 +317,7 @@ CSV.foreach("data/philadelphia-2012-budget.csv") do |row|
             if kid.name == primary
               #puts "Found primary #{kid.name} = #{primary}"
               foundprimary = true
-              kid.department_id = b.department_id
+              #kid.department_id = b.department_id
               parent = kid
 
               # We found the correct parent, now check for this item's children
@@ -324,7 +334,7 @@ CSV.foreach("data/philadelphia-2012-budget.csv") do |row|
                        # puts "Found tertiary #{k2.name} = #{tertiary}"
                         foundtertiary = true
                         parent = k2
-                                           
+                        k2.department_id = b.department_id                   
                         # Don't think I need this conditional anymore
                         if b.name == k2.name
 
@@ -372,6 +382,7 @@ CSV.foreach("data/philadelphia-2012-budget.csv") do |row|
 
               # Also have to set the sub_object_code
               s.sub_object_code = row[3][0] + "00"
+              t.department_id = b.department_id
 
             end
 
@@ -392,6 +403,7 @@ CSV.foreach("data/philadelphia-2012-budget.csv") do |row|
               parent.children.push(s)
               s.children.push(t)
               t.size += b.size.to_f
+              t.department_id = b.department_id
               #t.children.push(b)
               
             end
@@ -401,7 +413,8 @@ CSV.foreach("data/philadelphia-2012-budget.csv") do |row|
               t = BudgetItem.new
               t.name = tertiary
               t.children = Array.new
-        
+              t.department_id = b.department_id
+
              # puts "New tertiary.  Adding #{tertiary}"
               parent.children.push(t)
               t.size += b.size.to_f

@@ -1,0 +1,5933 @@
+	{	"name" : "Philadelphia General Fund Budget Fiscal Year 2012",
+		"value" : 0,
+		"children" : [
+			{	"name" : "Class S00: ",
+				"value" : 0,
+				"children" : [
+					{	"name" : "Sub-object Title",
+						"sub_object_code" : "S00",
+						"value" : 0,
+						"children" : [
+							{	"name" : "",
+								"value" : 0.0,
+								"dept_id" : "Dept"
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Class 100: Personal Services and Fringe Benefits",
+				"value" : 0,
+				"children" : [
+					{	"name" : "PERSONAL SERVICES (SALARY & OTHER PAY)",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 12252892.950000001,
+								"dept_id" : "1"
+							},
+							{	"name" : "Mayor's Office-Labor Relations",
+								"value" : 526947.98,
+								"dept_id" : "3"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 18437526.480000004,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 2964008.02,
+								"dept_id" : "5"
+							},
+							{	"name" : "Mayor's Office Of Community Services",
+								"value" : 3025024.1100000003,
+								"dept_id" : "8"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 10920630.090000002,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 604668516.6900033,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 72951444.38999994,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 181717132.43000156,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 39754915.84000009,
+								"dept_id" : "14"
+							},
+							{	"name" : "Office Of Behavioral Health",
+								"value" : 1464697.9900000002,
+								"dept_id" : "15"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 35318884.19999995,
+								"dept_id" : "16"
+							},
+							{	"name" : "Fairmount Park Commission",
+								"value" : 2311.3199999999997,
+								"dept_id" : "17"
+							},
+							{	"name" : "Atwater Kent Museum",
+								"value" : 223122.85,
+								"dept_id" : "18"
+							},
+							{	"name" : "Public Property",
+								"value" : 6317562.699999999,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 3623633.2699999865,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 125476049.24000016,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 7063730.980000005,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 15072238.74,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 14981291.980000013,
+								"dept_id" : "26"
+							},
+							{	"name" : "Board Of Licenses & Inspections Review",
+								"value" : 123176.94999999998,
+								"dept_id" : "27"
+							},
+							{	"name" : "Board Of Building Standards",
+								"value" : 62359.58,
+								"dept_id" : "29"
+							},
+							{	"name" : "Zoning Board Of Adjustment",
+								"value" : 341419.9600000001,
+								"dept_id" : "30"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 2817423.2800000003,
+								"dept_id" : "31"
+							},
+							{	"name" : "Phila. Historical Commission",
+								"value" : 361422.91,
+								"dept_id" : "32"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 9930128.1,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 13441001.86,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 2186310.3699999996,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 811276.4199999999,
+								"dept_id" : "40"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 337864.82,
+								"dept_id" : "41"
+							},
+							{	"name" : "Commerce",
+								"value" : 1398972.18,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 8508622.689999994,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 681105.61,
+								"dept_id" : "45"
+							},
+							{	"name" : "Mayor's Office Of Transportation",
+								"value" : 809992.4,
+								"dept_id" : "46"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 23513.93,
+								"dept_id" : "47"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 1160137.88,
+								"dept_id" : "48"
+							},
+							{	"name" : "Mural Arts Program",
+								"value" : 437931.4,
+								"dept_id" : "50"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 2279374.4599999995,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 28503195.150000043,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 1840617.96,
+								"dept_id" : "54"
+							},
+							{	"name" : "Civil Service Commission",
+								"value" : 142824.0,
+								"dept_id" : "55"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 4283971.450000003,
+								"dept_id" : "56"
+							},
+							{	"name" : "Zoning Code Commission",
+								"value" : 59195.44,
+								"dept_id" : "57"
+							},
+							{	"name" : "Office Of Arts & Culture",
+								"value" : 205603.65,
+								"dept_id" : "58"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 7031293.390000001,
+								"dept_id" : "59"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 6847220.049999998,
+								"dept_id" : "61"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 474228.4800000001,
+								"dept_id" : "63"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 3340492.63,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 28077886.799999975,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 15444191.120000007,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 5319677.970000001,
+								"dept_id" : "73"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 90842663.53000012,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "GROUP LIFE INSURANCE                0194",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Public Health",
+								"value" : 0.0,
+								"dept_id" : "14"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 7709491.25000002,
+								"dept_id" : "35"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 0.0,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "WORKER'S COMP-DISABILITY COMP       0187",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Recreation Department",
+								"value" : -10290.7,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 32196066.91999998,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "MEDICARE TAX                        0189",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Recreation Department",
+								"value" : -662.24,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 18521529.320000008,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "FICA TAXES                          0192",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Recreation Department",
+								"value" : -2832.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 47888263.68000003,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "MEDICAL HEALTH & WELFARE CREDIT     0193",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Human Services",
+								"value" : 0.0,
+								"dept_id" : "22"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 339794266.6799984,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "WORKER'S COMP-MEDICAL               0188",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 23900892.30999999,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "PENSION-OBLIGATION BOND PAYMENTS    0190",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 104028241.55000006,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "PENSION-ACTUAL                      0191",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 438508087.320002,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "GROUP LEGAL INSURANCE               0195",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 3829656.73,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "UNEMPLOYMENT COMP INSURANCE         0196",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 5757992.86,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "AUTO MECHANIC TOOL INSURANCE        0197",
+						"sub_object_code" : "100",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 91825.0,
+								"dept_id" : "35"
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Class 200: Purchase of Services",
+				"value" : 0,
+				"children" : [
+					{	"name" : "CLEANING AND LAUNDERING             0201",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 710.0,
+								"dept_id" : "1"
+							},
+							{	"name" : "Police Department",
+								"value" : 3091365.89,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 11949.65,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 1204.27,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 8440.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 83099.0,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 300.0,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 365378.48,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 49999.25,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 28268.339999999946,
+								"dept_id" : "25"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 12470.0,
+								"dept_id" : "52"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 23500.0,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 63700.0,
+								"dept_id" : "70"
+							}
+
+						]
+					},
+					{	"name" : "TELEPHONE                           0209",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 409.98,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 17140535.469999988,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 616.27,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 460.99,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 62.47,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 45363.51999999999,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 7213.44,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 2285.4,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 63712.3,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 13208.680000000004,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 6950.4,
+								"dept_id" : "25"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 26.91,
+								"dept_id" : "40"
+							},
+							{	"name" : "Commerce",
+								"value" : 179.97,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 1.0,
+								"dept_id" : "44"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 637867.2600000004,
+								"dept_id" : "52"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 1.6,
+								"dept_id" : "59"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 722.24,
+								"dept_id" : "61"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 1092.5,
+								"dept_id" : "69"
+							}
+
+						]
+					},
+					{	"name" : "POSTAGE                             0210",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 101603.70000000001,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 2306.3499999999995,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 877.4300000000002,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 12340.759999999998,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 116082.02999999993,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 522.0999999999999,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 211.13,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 7221.460000000002,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 1273.23,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 7964.069999999998,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 280.69,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 21889.49000000001,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 2316.1399999999994,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 1645.4699999999996,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 6.3,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 1602.5700000000006,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 727.1599999999997,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 2021527.7000000007,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 2474.26,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 735.38,
+								"dept_id" : "40"
+							},
+							{	"name" : "Commerce",
+								"value" : 107.61,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 1834.43,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 2889.31,
+								"dept_id" : "45"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 15.06,
+								"dept_id" : "47"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 357.44999999999993,
+								"dept_id" : "51"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 0.5,
+								"dept_id" : "54"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 16846.17,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Arts & Culture",
+								"value" : 162.15,
+								"dept_id" : "58"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 183209.15999999997,
+								"dept_id" : "59"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 275.59000000000003,
+								"dept_id" : "61"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 22446.57,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 116582.45000000007,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 395665.62,
+								"dept_id" : "73"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 43.99999999999977,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "TRANSPORTATION                      0211",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 895.75,
+								"dept_id" : "1"
+							},
+							{	"name" : "Mayor's Office-Labor Relations",
+								"value" : 340.33,
+								"dept_id" : "3"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 4675.78,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 56577.93,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 26242.520000000008,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 142763.84999999995,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 13949.640000000001,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 35086.83999999999,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 46663.60999999999,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 3716.6099999999997,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 4380.18,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 125471.03000000001,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 83087.41,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 57652.47999999999,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 6810.0,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 140661.78000000006,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 810.0500000000001,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 43698.29999999998,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 14526.150000000001,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 24.83,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 1089.88,
+								"dept_id" : "40"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 312.5,
+								"dept_id" : "41"
+							},
+							{	"name" : "Commerce",
+								"value" : 1461.94,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 21451.780000000006,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 1390.81,
+								"dept_id" : "45"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 50.8,
+								"dept_id" : "47"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 5435.910000000001,
+								"dept_id" : "48"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 9423.519999999999,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 20787.979999999996,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 3757.98,
+								"dept_id" : "54"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 154666.99999999997,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 3451.54,
+								"dept_id" : "59"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 2014.3000000000002,
+								"dept_id" : "61"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 1316.0,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 26866.670000000006,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 184346.45999999988,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 341413.06000000006,
+								"dept_id" : "73"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 1019.0,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "COMMERCIAL OFF-SHELF COMP SOFTWARE  0216",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 4259.1900000000005,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 1362825.8299999998,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 167729.79,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 12534.3,
+								"dept_id" : "11"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 17538.84,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 518.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 61819.84,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 717.17,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 4987.81,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 10255.86,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 235.8,
+								"dept_id" : "35"
+							},
+							{	"name" : "Law Department",
+								"value" : 419.02,
+								"dept_id" : "44"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 209.91,
+								"dept_id" : "48"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 83519.68,
+								"dept_id" : "52"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 74930.43999999999,
+								"dept_id" : "59"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 1676.25,
+								"dept_id" : "63"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 110574.48999999999,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : -1.1368683772161603e-13,
+								"dept_id" : "73"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 1100.28,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "MEALS-NON-TRAVEL & OFFICL ENTERTAIN 0230",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 8017.38,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 151.82999999999998,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 2085.2000000000007,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 8593.7,
+								"dept_id" : "10"
+							},
+							{	"name" : "Streets Department",
+								"value" : 12750.460000000003,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 15731.489999999998,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 6765.14,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 2963.53,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 3283.5,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 502.21000000000004,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 190.0,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 30.0,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 16030.779999999999,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 387.0,
+								"dept_id" : "36"
+							},
+							{	"name" : "Commerce",
+								"value" : 51.400000000000006,
+								"dept_id" : "42"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 1000.0,
+								"dept_id" : "47"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 722.7800000000001,
+								"dept_id" : "48"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 1295.94,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 11263.049999999997,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 455.39,
+								"dept_id" : "54"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 17444.53,
+								"dept_id" : "56"
+							},
+							{	"name" : "Zoning Code Commission",
+								"value" : 83.7,
+								"dept_id" : "57"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 882.3100000000001,
+								"dept_id" : "61"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 1258.07,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 6930.0,
+								"dept_id" : "70"
+							}
+
+						]
+					},
+					{	"name" : "ADVERTISING/PROMOTIONAL ACTIVITIES  0240",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 618248.5599999988,
+								"dept_id" : "1"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 301.39,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 22540.0,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 517835.89,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 21875.0,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 3305.0,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 3330.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Prisons",
+								"value" : 627.0,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 14973.93,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 1431.72,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 1598.51,
+								"dept_id" : "35"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 2352422.3100000015,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 419.0,
+								"dept_id" : "40"
+							},
+							{	"name" : "Law Department",
+								"value" : 7675.5,
+								"dept_id" : "44"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 5288.5,
+								"dept_id" : "47"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 10798.6,
+								"dept_id" : "56"
+							}
+
+						]
+					},
+					{	"name" : "PROFESSIONAL CONSULT/SPEC SERVICES  0250",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 351353.58999999997,
+								"dept_id" : "1"
+							},
+							{	"name" : "Mayor's Office-Labor Relations",
+								"value" : 345.5,
+								"dept_id" : "3"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 12282.989999999998,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 430081.18000000005,
+								"dept_id" : "5"
+							},
+							{	"name" : "Office Of Housing",
+								"value" : 2152315.9699999997,
+								"dept_id" : "6"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 6975560.389999999,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 1721430.75,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 1818957.819999999,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 4892531.630000001,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 57770780.23999993,
+								"dept_id" : "14"
+							},
+							{	"name" : "Office Of Behavioral Health",
+								"value" : 574659.0,
+								"dept_id" : "15"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 3906090.1199999982,
+								"dept_id" : "16"
+							},
+							{	"name" : "Fairmount Park Commission",
+								"value" : 65311.5,
+								"dept_id" : "17"
+							},
+							{	"name" : "Public Property",
+								"value" : 81602264.71999997,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 21646183.02000001,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 83365096.86,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 4825422.739999993,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 197681.60000000015,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 495772.3900000001,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 675429.7800000005,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 1048595.35,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 1114395.2900000007,
+								"dept_id" : "36"
+							},
+							{	"name" : "Sinking Fund Commission",
+								"value" : 4500.0,
+								"dept_id" : "37"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 1037.5,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 76072.25,
+								"dept_id" : "40"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 518000.0,
+								"dept_id" : "41"
+							},
+							{	"name" : "Commerce",
+								"value" : 1644600.34,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 1783017.3400000064,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 1223.75,
+								"dept_id" : "45"
+							},
+							{	"name" : "Mayor's Office Of Transportation",
+								"value" : 30451.0,
+								"dept_id" : "46"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 27.569999999999997,
+								"dept_id" : "47"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 77063.9,
+								"dept_id" : "48"
+							},
+							{	"name" : "Mural Arts Program",
+								"value" : 426500.0,
+								"dept_id" : "50"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 12332.28,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 427799.83,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 3416.8299999999995,
+								"dept_id" : "54"
+							},
+							{	"name" : "Civil Service Commission",
+								"value" : 29500.000000000007,
+								"dept_id" : "55"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 402345.52999999997,
+								"dept_id" : "56"
+							},
+							{	"name" : "Zoning Code Commission",
+								"value" : 118672.01999999999,
+								"dept_id" : "57"
+							},
+							{	"name" : "Office Of Arts & Culture",
+								"value" : 390800.0,
+								"dept_id" : "58"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 237692.1,
+								"dept_id" : "59"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 143678.75,
+								"dept_id" : "61"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 1606.64,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 1051528.4200000064,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 189419.25,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 1820986.6600000001,
+								"dept_id" : "73"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 34516.25000000013,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "LEGAL SERVICES                      0253",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 155.8,
+								"dept_id" : "1"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 572040.8999999999,
+								"dept_id" : "22"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 13332.0,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 37082611.99999999,
+								"dept_id" : "35"
+							},
+							{	"name" : "Law Department",
+								"value" : 1716013.1800000002,
+								"dept_id" : "44"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 281.13,
+								"dept_id" : "48"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 8634283.450000005,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "DUES                                0255",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 624.95,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 26453.67,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 46214.0,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 17811.4,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 10741.189999999999,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 30350.420000000002,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 1211.0,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 21201.0,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 3500.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 2380.0,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 4452.4,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 7152.95,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 800.0,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 150.0,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 4091.0,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 3840.99,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 79752.15,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 12691.0,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 1375.5,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 600.0,
+								"dept_id" : "40"
+							},
+							{	"name" : "Commerce",
+								"value" : 250.0,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 63826.95,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 445.0,
+								"dept_id" : "45"
+							},
+							{	"name" : "Mayor's Office Of Transportation",
+								"value" : 150.0,
+								"dept_id" : "46"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 1550.0,
+								"dept_id" : "48"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 1495.0,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 23085.5,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 1864.0,
+								"dept_id" : "54"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 9492.0,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Arts & Culture",
+								"value" : 250.0,
+								"dept_id" : "58"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 13632.0,
+								"dept_id" : "59"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 7130.0,
+								"dept_id" : "61"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 691.5,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 2925.0,
+								"dept_id" : "69"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 185.0,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "SEMINAR AND TRAINING SESSIONS       0256",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 9913.789999999997,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 56732.439999999995,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 3900.0,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 16396.2,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 348495.33999999997,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 17654.75,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 191410.12,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 2720.25,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 5962.53,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 2621.8,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 60877.07,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 39417.27999999999,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 2361.38,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 4687.2699999999995,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 324420.13000000006,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 9890.33,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 10746.0,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 6507.0,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 150.0,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 120.0,
+								"dept_id" : "40"
+							},
+							{	"name" : "Commerce",
+								"value" : 685.0,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 30260.25,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 3134.0,
+								"dept_id" : "45"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 113.37,
+								"dept_id" : "47"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 9036.0,
+								"dept_id" : "48"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 8678.8,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 5453.0,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 7093.0,
+								"dept_id" : "54"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 545.0,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 9900.0,
+								"dept_id" : "59"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 45517.43000000001,
+								"dept_id" : "61"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 330.0,
+								"dept_id" : "63"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 338.0,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 1030.0,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 743.0,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "COURT REPORTERS                     0258",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 145238.75000000003,
+								"dept_id" : "1"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 986.5,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 2090.1800000000003,
+								"dept_id" : "22"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 75.0,
+								"dept_id" : "26"
+							},
+							{	"name" : "Board Of Licenses & Inspections Review",
+								"value" : 7281.75,
+								"dept_id" : "27"
+							},
+							{	"name" : "Zoning Board Of Adjustment",
+								"value" : 33191.4,
+								"dept_id" : "30"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 15608.150000000001,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 4502.55,
+								"dept_id" : "36"
+							},
+							{	"name" : "Sinking Fund Commission",
+								"value" : 1554.0,
+								"dept_id" : "37"
+							},
+							{	"name" : "Law Department",
+								"value" : 424507.04000000015,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 2079.55,
+								"dept_id" : "45"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 711.0,
+								"dept_id" : "51"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 9193.0,
+								"dept_id" : "54"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 3567.5,
+								"dept_id" : "59"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 8465.6,
+								"dept_id" : "63"
+							},
+							{	"name" : "Sheriff",
+								"value" : 2414.2,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 12573.900000000001,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "REPAIR AND MAINTENANCE CHARGES      0260",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 80087.07999999999,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 1217879.2499999998,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 16885.470000000005,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 71984.68,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 864576.049999997,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 297265.91999999946,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 708658.92,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 725188.4000000011,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 610077.58,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 4495333.819999993,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 38704.35000000011,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 1225971.5099999981,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 72093.71000000002,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 4335623.690000003,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 230974.8199999992,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 318875.68000000005,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 48819.69999999999,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 283217.02000000014,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 17463.460000000003,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 1908.0,
+								"dept_id" : "40"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 480.0,
+								"dept_id" : "41"
+							},
+							{	"name" : "Commerce",
+								"value" : 1380.0,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 13016.38,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 45.69,
+								"dept_id" : "45"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 788.6699999999998,
+								"dept_id" : "48"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 3105.72,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 531894.7699999999,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 2352.2400000000007,
+								"dept_id" : "54"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 12270.389999999996,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Arts & Culture",
+								"value" : 198.0,
+								"dept_id" : "58"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 15892.530000000006,
+								"dept_id" : "59"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 2101.3,
+								"dept_id" : "61"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 2450.25,
+								"dept_id" : "63"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 15285.229999999998,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 51395.28000000008,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 10890.389999999992,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 188166.2300000001,
+								"dept_id" : "73"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 8794.449999999999,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "MAINT/SUPPORT-COMPUTR HARDWARE/SOFT 0266",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 18881.18,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 3340558.259999999,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 532.13,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 46285.76,
+								"dept_id" : "11"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 18696.739999999998,
+								"dept_id" : "14"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 15462.62,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 31744.619999999995,
+								"dept_id" : "23"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 12325.0,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 9277.77,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 8368.88,
+								"dept_id" : "31"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 821.12,
+								"dept_id" : "36"
+							},
+							{	"name" : "Law Department",
+								"value" : 692.47,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 1325.53,
+								"dept_id" : "45"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 100098.07,
+								"dept_id" : "52"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 17900.030000000006,
+								"dept_id" : "61"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 69085.37000000001,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 100000.0,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "RENTS                               0285",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 103020.66000000002,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 62324.62,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 15514.96000000001,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 138125.28000000038,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 88855.46,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 15027.299999999985,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 21084.139999999992,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 198893.36999999997,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 64395.15000000006,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 151553.7599999999,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 25416.859999999997,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 64916.05000000001,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 2736.0,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 2963.11,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 17.33,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 8756.079999999996,
+								"dept_id" : "36"
+							},
+							{	"name" : "Sinking Fund Commission",
+								"value" : 60870039.040000014,
+								"dept_id" : "37"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 800.66,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 6114.67,
+								"dept_id" : "41"
+							},
+							{	"name" : "Commerce",
+								"value" : 15015283.230000008,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 50506.56,
+								"dept_id" : "44"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 30938.93,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 62408.91000000011,
+								"dept_id" : "52"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 39307.65999999999,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 8675.139999999998,
+								"dept_id" : "59"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 628.1600000000001,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 6891.55,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 177840.86,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "OTHER EXPENSES (NOT OTHRWSE CLSSFD) 0299",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 443.13,
+								"dept_id" : "1"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 109711.74,
+								"dept_id" : "10"
+							},
+							{	"name" : "Streets Department",
+								"value" : 243.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 4.0,
+								"dept_id" : "14"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 1116.0,
+								"dept_id" : "35"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 422.65,
+								"dept_id" : "45"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 486.72,
+								"dept_id" : "48"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 107.75,
+								"dept_id" : "59"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 133.0,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 39208.490000000005,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 0.0,
+								"dept_id" : "73"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 15528524.740000002,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "ELECTRIC CURRENT-STRUCTURES/STREETS 0220",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 189259.49000000005,
+								"dept_id" : "4"
+							},
+							{	"name" : "Public Property",
+								"value" : 22182636.23000001,
+								"dept_id" : "20"
+							}
+
+						]
+					},
+					{	"name" : "INFORMATION TECHNOLOGY-PROF SERVICE 0251",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 7751008.130000003,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 20608.0,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 9.0,
+								"dept_id" : "11"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 209254.14,
+								"dept_id" : "14"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 703381.75,
+								"dept_id" : "22"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 93452.42,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 60.7,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 100131.5,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 1347139.0499999998,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 25915.0,
+								"dept_id" : "36"
+							},
+							{	"name" : "Law Department",
+								"value" : 49717.82999999999,
+								"dept_id" : "44"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 5383.2,
+								"dept_id" : "47"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 21936.0,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 59391.75,
+								"dept_id" : "59"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 11414.41,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 9445.220000000001,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 527.1,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "ACCOUNTING AND AUDITING SERVICES    0252",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 5000.0,
+								"dept_id" : "4"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 10000.0,
+								"dept_id" : "14"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 50000.0,
+								"dept_id" : "35"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 6000.0,
+								"dept_id" : "51"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 541067.32,
+								"dept_id" : "61"
+							}
+
+						]
+					},
+					{	"name" : "RENT/LEASE-PURCHASE COMPUTER EQUIP  0282",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 9232028.250000004,
+								"dept_id" : "4"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 310574.43000000005,
+								"dept_id" : "52"
+							}
+
+						]
+					},
+					{	"name" : "RENTAL OF PARKING SPACES            0286",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 35.0,
+								"dept_id" : "4"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 131.76,
+								"dept_id" : "14"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 25.0,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 425258.0,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 27087.0,
+								"dept_id" : "26"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 5040.0,
+								"dept_id" : "63"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 8140.0,
+								"dept_id" : "69"
+							}
+
+						]
+					},
+					{	"name" : "DEMOLITION OF BUILDINGS             0262",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Housing",
+								"value" : 141242.0,
+								"dept_id" : "6"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 3696794.3400000003,
+								"dept_id" : "26"
+							}
+
+						]
+					},
+					{	"name" : "PURCHASE OF SERVICES CONTROL        0200",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 13421.48,
+								"dept_id" : "10"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 519.7,
+								"dept_id" : "69"
+							}
+
+						]
+					},
+					{	"name" : "LICENSES PERMITS INSPECTION CHARGES 0215",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 140.0,
+								"dept_id" : "10"
+							},
+							{	"name" : "Streets Department",
+								"value" : 112.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 13846.0,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 2734.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 5025.740000000001,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 170.0,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 11132.0,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 135.5,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 70342.34,
+								"dept_id" : "25"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 62.0,
+								"dept_id" : "52"
+							},
+							{	"name" : "City Controller's Office",
+								"value" : 229.5,
+								"dept_id" : "61"
+							}
+
+						]
+					},
+					{	"name" : "GROUND AND BUILDING RENTAL          0284",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 21018.0,
+								"dept_id" : "10"
+							},
+							{	"name" : "Public Property",
+								"value" : 16118749.269999987,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 455981.28,
+								"dept_id" : "22"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 2754496.990000001,
+								"dept_id" : "24"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 1900.0,
+								"dept_id" : "36"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 2500.0,
+								"dept_id" : "59"
+							}
+
+						]
+					},
+					{	"name" : "JANITORIAL SERVICES                 0202",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 11393.289999999999,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 235.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 2375.0,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 13898.89,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 21984.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 3713163.63,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 28603.5,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 39.9,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 243725.22000000003,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 21776.91,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 711.2,
+								"dept_id" : "31"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 1100.0,
+								"dept_id" : "54"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 11718.64,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "REFUSE/GARBAGE/SILT/SLUDGE REMOVAL  0205",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 14853.58,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 40705326.59,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 127267.55999999995,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 23975.21,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 11411.5,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 4437.450000000001,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 2536.2,
+								"dept_id" : "59"
+							}
+
+						]
+					},
+					{	"name" : "RETURN OF FUGITIVES                 0212",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 52586.31000000001,
+								"dept_id" : "11"
+							}
+
+						]
+					},
+					{	"name" : "OVERTIME MEALS                      0231",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 373058.0,
+								"dept_id" : "11"
+							},
+							{	"name" : "Law Department",
+								"value" : 922.25,
+								"dept_id" : "44"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 1642.32,
+								"dept_id" : "69"
+							}
+
+						]
+					},
+					{	"name" : "PURCHASE SERVICES-IMPREST ADVANCES  0295",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 212.0,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 1856.3499999999997,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 4043.3799999999997,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 5402.4299999999985,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 327.42,
+								"dept_id" : "16"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 318.75,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 438.4700000000001,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 140.0,
+								"dept_id" : "31"
+							}
+
+						]
+					},
+					{	"name" : "CLEAN & SEAL VACANT BLDGS/LOTS      0263",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Fire Department",
+								"value" : 1237.0,
+								"dept_id" : "13"
+							}
+
+						]
+					},
+					{	"name" : "MENTAL HEALTH & RETARDATION SERVICE 0254",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Behavioral Health",
+								"value" : 13049720.0,
+								"dept_id" : "15"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 199768.97999999998,
+								"dept_id" : "22"
+							}
+
+						]
+					},
+					{	"name" : "ARCHITECTURAL & ENGINEERING SRVCS   0257",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Recreation Department",
+								"value" : 14500.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 21600.0,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 34262.06,
+								"dept_id" : "23"
+							},
+							{	"name" : "Law Department",
+								"value" : 313587.41000000003,
+								"dept_id" : "44"
+							}
+
+						]
+					},
+					{	"name" : "INSURANCE AND OFFICIAL BONDS        0280",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Recreation Department",
+								"value" : 5225.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 11776.93,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 1143366.09,
+								"dept_id" : "35"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 689.0,
+								"dept_id" : "68"
+							}
+
+						]
+					},
+					{	"name" : "GAS SERVICES                        0221",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Public Property",
+								"value" : 6111395.98,
+								"dept_id" : "20"
+							}
+
+						]
+					},
+					{	"name" : "STEAM FOR HEATING                   0222",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Public Property",
+								"value" : 2481014.939999999,
+								"dept_id" : "20"
+							}
+
+						]
+					},
+					{	"name" : "LEASE PAYMENTS-PHILA MUNICIPAL AUTH 0281",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Human Services",
+								"value" : 4513723.640000001,
+								"dept_id" : "22"
+							},
+							{	"name" : "Sinking Fund Commission",
+								"value" : 28835456.64,
+								"dept_id" : "37"
+							}
+
+						]
+					},
+					{	"name" : "PAYMENTS FOR CARE OF INDIVIDUALS    0290",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Human Services",
+								"value" : 76234780.18000512,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 12960137.61,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 22680397.220000003,
+								"dept_id" : "24"
+							}
+
+						]
+					},
+					{	"name" : "DAY CARE PAYMENTS                   0291",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Human Services",
+								"value" : 59074.84000000001,
+								"dept_id" : "22"
+							}
+
+						]
+					},
+					{	"name" : "WITNESS EXPENSES                    0278",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Prisons",
+								"value" : 33.0,
+								"dept_id" : "23"
+							}
+
+						]
+					},
+					{	"name" : "LEASE PURCHASE -- VEHICLES          0283",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Fleet Management",
+								"value" : 4324135.2,
+								"dept_id" : "25"
+							}
+
+						]
+					},
+					{	"name" : "ABATEMENT OF OTHER NUISANCES        0264",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 28060.7,
+								"dept_id" : "26"
+							}
+
+						]
+					},
+					{	"name" : "WITNESS FEES                        0277",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 103175.96999999994,
+								"dept_id" : "35"
+							},
+							{	"name" : "Law Department",
+								"value" : 7665.07,
+								"dept_id" : "44"
+							}
+
+						]
+					},
+					{	"name" : "PAYMENTS FOR BURIALS AND GRAVES     0298",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 112375.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "ARBITRATION FEES                    0259",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Law Department",
+								"value" : 260617.89,
+								"dept_id" : "44"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 754750.0,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "JUROR FEES                          0275",
+						"sub_object_code" : "200",
+						"value" : 0,
+						"children" : [
+							{	"name" : "First Judicial District",
+								"value" : 1411729.0,
+								"dept_id" : "84"
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Class 300: Materials and Supplies",
+				"value" : 0,
+				"children" : [
+					{	"name" : "AGRICULTURAL AND BOTANICAL          0301",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 300.0,
+								"dept_id" : "1"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 10707.6,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 370.88,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 4680.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 2429.0,
+								"dept_id" : "13"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 66732.16,
+								"dept_id" : "16"
+							},
+							{	"name" : "Prisons",
+								"value" : 595.39,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 83.5,
+								"dept_id" : "24"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 536.27,
+								"dept_id" : "52"
+							}
+
+						]
+					},
+					{	"name" : "BOOKS AND OTHER PUBLICATIONS        0304",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 8143.619999999999,
+								"dept_id" : "1"
+							},
+							{	"name" : "Mayor's Office-Labor Relations",
+								"value" : 5432.0,
+								"dept_id" : "3"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 2230.49,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 2887.0,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 1551.52,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 48373.920000000006,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 10512.4,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 26564.980000000007,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 13033.869999999999,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 685.1199999999999,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 42121.06,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 5402.7699999999995,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 18741.129999999997,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 60.0,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 49402.130000000005,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 8325.969999999998,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 2284.19,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 17008.62,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 14726.98,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 6881.94,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 10485.880000000001,
+								"dept_id" : "41"
+							},
+							{	"name" : "Commerce",
+								"value" : 1483.22,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 152212.29000000004,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 1359.4,
+								"dept_id" : "45"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 1234.9300000000005,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 1500.0,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 478.0,
+								"dept_id" : "54"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 7625.92,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 23625.47,
+								"dept_id" : "59"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 567.8199999999999,
+								"dept_id" : "63"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 46424.18,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 2497.0,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "BUILDING AND CONSTRUCTION           0305",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 1154.91,
+								"dept_id" : "1"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 203948.6200000001,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 47050.62000000001,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 662285.8199999998,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 8677.960000000001,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 41570.73,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 252347.72999999995,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 85402.29000000001,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 3261.77,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 135739.78999999998,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 426.35,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 107569.86000000004,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 50582.0,
+								"dept_id" : "26"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 86.04,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 2127.79,
+								"dept_id" : "52"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 450.0,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "DRY GOODS/NOTIONS/WEARING APPAREL   0308",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 1156.6000000000001,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 253.68,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 14424.169999999998,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 3745268.5599999996,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 228875.68000000008,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 3850082.2300000004,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 21351.82,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 22700.13,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 29476.49000000001,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 13434.85,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 1250905.8699999999,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 25538.22,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 123700.82000000004,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 51514.86000000001,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 465.08,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 274.06,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 169.12,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 21.14,
+								"dept_id" : "40"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 7957.180000000002,
+								"dept_id" : "52"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 550.0,
+								"dept_id" : "56"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 23000.0,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 116734.14999999997,
+								"dept_id" : "70"
+							}
+
+						]
+					},
+					{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0311",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 23.14,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 212.06,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 19676.67,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 25558.649999999998,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 37395.09,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 1532.6399999999999,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 28695.639999999996,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 44374.93,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 23742.05,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 22173.86,
+								"dept_id" : "23"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 525.0599999999998,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 430.5,
+								"dept_id" : "26"
+							}
+
+						]
+					},
+					{	"name" : "FOOD                                0313",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 906.2199999999999,
+								"dept_id" : "1"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 585.96,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 3038.23,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 176481.05,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 3759.2699999999995,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 3331.5099999999984,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 422.21999999999997,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 789.65,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 86537.9899999999,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 907.74,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 1344.7600000000002,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 1184.0,
+								"dept_id" : "25"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 28.56,
+								"dept_id" : "47"
+							},
+							{	"name" : "Sheriff",
+								"value" : 125608.0,
+								"dept_id" : "70"
+							}
+
+						]
+					},
+					{	"name" : "JANITORIAL, LAUNDRY AND HOUSEHOLD   0318",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 6050.4299999999985,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 72.84,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 65829.86,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 231593.12000000002,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 167061.21999999997,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 151365.05,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 176551.10000000006,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 133065.31000000003,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 51594.25000000001,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 56416.9,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 494188.62,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 19854.760000000002,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 60147.92999999999,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 26482.44,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 832.3199999999999,
+								"dept_id" : "31"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 632.1800000000001,
+								"dept_id" : "36"
+							},
+							{	"name" : "Commerce",
+								"value" : 112.68,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 238.49,
+								"dept_id" : "44"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 48971.130000000005,
+								"dept_id" : "52"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 158.08,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 3968.2000000000003,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "OFFICE MATERIALS AND SUPPLIES       0320",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 72459.56000000003,
+								"dept_id" : "1"
+							},
+							{	"name" : "Mayor's Office-Labor Relations",
+								"value" : 1797.8799999999999,
+								"dept_id" : "3"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 54184.539999999986,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 8930.88,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 16893.179999999997,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 543387.3199999995,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 91077.23000000019,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 138837.74000000002,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 229863.44000000035,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 37147.06000000001,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 46798.35999999999,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 51782.11000000001,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 173390.85999999996,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 34595.030000000006,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 26810.48999999999,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 80293.47000000002,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 63964.22999999999,
+								"dept_id" : "31"
+							},
+							{	"name" : "Phila. Historical Commission",
+								"value" : 625.2,
+								"dept_id" : "32"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 24646.290000000005,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 154304.15,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 13147.130000000003,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 3931.5699999999997,
+								"dept_id" : "40"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 1005.76,
+								"dept_id" : "41"
+							},
+							{	"name" : "Commerce",
+								"value" : 4578.43,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 49581.30999999999,
+								"dept_id" : "44"
+							},
+							{	"name" : "Board Of Ethics",
+								"value" : 874.6200000000001,
+								"dept_id" : "45"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 1449.8300000000002,
+								"dept_id" : "47"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 11548.26,
+								"dept_id" : "48"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 11170.59,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 97534.83000000003,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 7305.590000000001,
+								"dept_id" : "54"
+							},
+							{	"name" : "Civil Service Commission",
+								"value" : 151.57,
+								"dept_id" : "55"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 16352.85,
+								"dept_id" : "56"
+							},
+							{	"name" : "Zoning Code Commission",
+								"value" : 1290.8200000000002,
+								"dept_id" : "57"
+							},
+							{	"name" : "Office Of Arts & Culture",
+								"value" : 1220.94,
+								"dept_id" : "58"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 31130.82,
+								"dept_id" : "59"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 1311.9999999999998,
+								"dept_id" : "63"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 13039.769999999999,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 219718.0000000001,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 17173.67,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 77254.32000000004,
+								"dept_id" : "73"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 0.0,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0323",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 137.5,
+								"dept_id" : "1"
+							},
+							{	"name" : "Police Department",
+								"value" : 1035.24,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 10318.29,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 40212.030000000006,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 143333.71999999983,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 155681.35999999987,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 2019.88,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 122179.22,
+								"dept_id" : "23"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 2450.0,
+								"dept_id" : "25"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 1123.6799999999998,
+								"dept_id" : "52"
+							}
+
+						]
+					},
+					{	"name" : "PRINTING                            0325",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 91902.23,
+								"dept_id" : "1"
+							},
+							{	"name" : "Mayor's Office-Labor Relations",
+								"value" : 55.5,
+								"dept_id" : "3"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 551.0,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 84.99,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 1277.5,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 182893.01,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 79095.37,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 54958.07000000001,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 81941.57999999999,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 1928.85,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 2001.56,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 427.0,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 215024.03,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 3143.0699999999997,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 7041.5,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 11237.179999999998,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 7662.809999999999,
+								"dept_id" : "31"
+							},
+							{	"name" : "Phila. Historical Commission",
+								"value" : 42.0,
+								"dept_id" : "32"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 24754.92,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 229752.43999999997,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 60.5,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 209.0,
+								"dept_id" : "40"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 2856.0799999999995,
+								"dept_id" : "41"
+							},
+							{	"name" : "Commerce",
+								"value" : 993.19,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 20886.07,
+								"dept_id" : "44"
+							},
+							{	"name" : "Youth Commission",
+								"value" : 940.0,
+								"dept_id" : "47"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 310.35,
+								"dept_id" : "48"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 853.0,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 42480.24000000002,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 551.0,
+								"dept_id" : "54"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 2082.2,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 6570.12,
+								"dept_id" : "59"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 661.0,
+								"dept_id" : "63"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 5265.76,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 45666.46,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 4807.6,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 304144.7,
+								"dept_id" : "73"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 2278.0,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "ELECTRICAL AND COMMUNICATION        0310",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 513327.1,
+								"dept_id" : "4"
+							},
+							{	"name" : "Police Department",
+								"value" : 53512.780000000006,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 1307167.39,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 60494.36,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 51693.50000000001,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 199052.56999999998,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 133513.32000000004,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 2093.32,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 217106.5600000001,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 26551.469999999998,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 6739.64,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 641.21,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 28.64,
+								"dept_id" : "31"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 1142.79,
+								"dept_id" : "36"
+							},
+							{	"name" : "Commerce",
+								"value" : 50.4,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 587.16,
+								"dept_id" : "44"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 9508.66,
+								"dept_id" : "52"
+							},
+							{	"name" : "Human Relations Commission",
+								"value" : 93.89,
+								"dept_id" : "54"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 90178.81999999999,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "GENERAL HARDWARE AND MINOR TOOLS    0316",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 12967.920000000002,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 1061.7,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 10118.16,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 376416.5499999998,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 20697.33,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 31667.59,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 103296.65000000001,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 74883.06000000001,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 878.5799999999999,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 61506.449999999975,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 4038.13,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 35749.53999999997,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 3033.49,
+								"dept_id" : "26"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 7976.49,
+								"dept_id" : "52"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 614.51,
+								"dept_id" : "59"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 1180.34,
+								"dept_id" : "69"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 6420.59,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTISTS 0324",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 25273.23,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 350.55,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 4378.25,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 812132.0099999999,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 120569.01,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 110390.6,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 42442.95,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 17961.72,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 32550.609999999993,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 17102.5,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 175406.61,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 11360.85,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 10650.5,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 25471.74,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 23905.98,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 11107.129999999997,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 16167.2,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 4791.02,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 1188.0,
+								"dept_id" : "40"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 2685.41,
+								"dept_id" : "41"
+							},
+							{	"name" : "Commerce",
+								"value" : 5827.39,
+								"dept_id" : "42"
+							},
+							{	"name" : "Law Department",
+								"value" : 21450.0,
+								"dept_id" : "44"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 19409.44,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 13313.41,
+								"dept_id" : "52"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 3900.14,
+								"dept_id" : "56"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 11370.61,
+								"dept_id" : "59"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 830.98,
+								"dept_id" : "63"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 121643.14,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 684.36,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 15782.86,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "RECREATIONAL AND EDUCATIONAL        0326",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 229.0,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 8195.75,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 3786.92,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 6791.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 119026.15,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 349.7,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 453.0,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 740.5600000000001,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 509.8,
+								"dept_id" : "26"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 69.39,
+								"dept_id" : "52"
+							}
+
+						]
+					},
+					{	"name" : "OTHER MATERIALS AND SUPPLIES (NOC)  0399",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Mayor's Office",
+								"value" : 223.0,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 2449.8999999999996,
+								"dept_id" : "10"
+							},
+							{	"name" : "Streets Department",
+								"value" : 9.99,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 576.03,
+								"dept_id" : "26"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 12967.090000000002,
+								"dept_id" : "41"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 622.56,
+								"dept_id" : "68"
+							},
+							{	"name" : "First Judicial District",
+								"value" : 2017598.95,
+								"dept_id" : "84"
+							}
+
+						]
+					},
+					{	"name" : "MATERIALS & SUPPLIES CONTROL        0300",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 56.35,
+								"dept_id" : "10"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 858.6,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 314.09,
+								"dept_id" : "26"
+							}
+
+						]
+					},
+					{	"name" : "FIRE FIGHTING AND SAFETY            0312",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 10772.799999999997,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 795000.0700000001,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 81347.78,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 471750.3599999998,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 5631.82,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 29078.33,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 18445.84,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 30734.27,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 152081.95,
+								"dept_id" : "23"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 16693.53,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 1913.82,
+								"dept_id" : "26"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 220.52,
+								"dept_id" : "36"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 931.3199999999999,
+								"dept_id" : "52"
+							},
+							{	"name" : "Sheriff",
+								"value" : 11227.1,
+								"dept_id" : "70"
+							}
+
+						]
+					},
+					{	"name" : "HOSPITAL AND LABORATORY             0317",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 2168.6000000000004,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 431348.6499999999,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 6515.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 1420685.4899999988,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 2598815.6500000004,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 27131.04,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 353.6,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 6586.08,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 62659.34,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 4808.16,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 7603.0,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 1366.9,
+								"dept_id" : "26"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 67.5,
+								"dept_id" : "36"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 921.36,
+								"dept_id" : "52"
+							},
+							{	"name" : "Personnel Department",
+								"value" : 8249.08,
+								"dept_id" : "56"
+							}
+
+						]
+					},
+					{	"name" : "SMALL POWER TOOLS AND HAND TOOLS    0322",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 21999.53,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 800.25,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 114009.64000000007,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 20431.439999999995,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 6917.9,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 68949.91000000002,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 23425.320000000003,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 18073.730000000007,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 1668.21,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 74405.77000000002,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 3133.24,
+								"dept_id" : "26"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 715.0,
+								"dept_id" : "52"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 2387.5,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "MOTOR VEHICLE PARTS AND ACCESSORIES 0328",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 18489.269999999997,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 28152.340000000007,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 13453.769999999999,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 446.32,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 12963.800000000001,
+								"dept_id" : "16"
+							},
+							{	"name" : "Prisons",
+								"value" : 3958.04,
+								"dept_id" : "23"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 8557580.89000005,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 861.82,
+								"dept_id" : "26"
+							}
+
+						]
+					},
+					{	"name" : "LIQUID PROPANE GAS (LPG)            0342",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 482.6,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 16933.75,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 44023.15999999986,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 289.56,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 224.92,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 5999.3,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 828.5899999999999,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 756.75,
+								"dept_id" : "23"
+							}
+
+						]
+					},
+					{	"name" : "ANIMAL, LIVESTOCK AND MARINE LIFE   0302",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 61161.67999999999,
+								"dept_id" : "11"
+							},
+							{	"name" : "Prisons",
+								"value" : 852.29,
+								"dept_id" : "23"
+							}
+
+						]
+					},
+					{	"name" : "CHEMICALS AND GASES                 0307",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 7633.800000000001,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 643472.5100000001,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 184672.80999999784,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 517412.1899999999,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 311176.5099999999,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 17800.960000000003,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 7313.12,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 3109.12,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 148224.71,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 666.24,
+								"dept_id" : "26"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 14.33,
+								"dept_id" : "52"
+							}
+
+						]
+					},
+					{	"name" : "CORDAGE AND FIBERS                  0309",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 9344.93,
+								"dept_id" : "11"
+							}
+
+						]
+					},
+					{	"name" : "NAUTICAL AND AERONAUTICAL           0319",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 391998.63,
+								"dept_id" : "11"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 294.0,
+								"dept_id" : "14"
+							}
+
+						]
+					},
+					{	"name" : "LUBRICANTS                          0335",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 625.66,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 575.52,
+								"dept_id" : "12"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 198.79,
+								"dept_id" : "16"
+							},
+							{	"name" : "Prisons",
+								"value" : 195.0,
+								"dept_id" : "23"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 568158.1300000004,
+								"dept_id" : "25"
+							}
+
+						]
+					},
+					{	"name" : "GASOLINE                            0345",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 78459.73000000001,
+								"dept_id" : "11"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 91.02,
+								"dept_id" : "14"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 11695834.079999989,
+								"dept_id" : "25"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 330.0,
+								"dept_id" : "52"
+							},
+							{	"name" : "Sheriff",
+								"value" : 29006.920000000002,
+								"dept_id" : "70"
+							}
+
+						]
+					},
+					{	"name" : "FUEL -- HEATING AND LIGHTING        0314",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Streets Department",
+								"value" : 310076.99999999994,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 67756.70000000001,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 38.99,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 139120.02000000005,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 57905.78999999999,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 61166.68,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 64797.590000000004,
+								"dept_id" : "24"
+							}
+
+						]
+					},
+					{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0303",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Fire Department",
+								"value" : 187.84,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 218.36,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 13.95,
+								"dept_id" : "16"
+							},
+							{	"name" : "Prisons",
+								"value" : 10007.17,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 3567.26,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 497.6,
+								"dept_id" : "25"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 46.55,
+								"dept_id" : "51"
+							},
+							{	"name" : "Zoning Code Commission",
+								"value" : 145.0,
+								"dept_id" : "57"
+							}
+
+						]
+					},
+					{	"name" : "#2 DIESEL FUEL                      0340",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Fire Department",
+								"value" : 397.5,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 407.62,
+								"dept_id" : "14"
+							},
+							{	"name" : "Public Property",
+								"value" : 1369.0099999999998,
+								"dept_id" : "20"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 7295912.329999993,
+								"dept_id" : "25"
+							}
+
+						]
+					},
+					{	"name" : "COMPRESSED NATURAL GAS (CNG)        0341",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Fire Department",
+								"value" : 56.0,
+								"dept_id" : "13"
+							}
+
+						]
+					},
+					{	"name" : "PARKING METER AND WATER METER       0321",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Recreation Department",
+								"value" : 4.5,
+								"dept_id" : "16"
+							}
+
+						]
+					},
+					{	"name" : "TOBACCO PRODUCTS, SMOKING ACCESS    0329",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Prisons",
+								"value" : 316.0,
+								"dept_id" : "23"
+							}
+
+						]
+					},
+					{	"name" : "BIO-FUELS                           0343",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Fleet Management",
+								"value" : 219577.14,
+								"dept_id" : "25"
+							}
+
+						]
+					},
+					{	"name" : "LIBRARY MATERIALS                   0306",
+						"sub_object_code" : "300",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Free Library Of Phila.",
+								"value" : 1545425.049999998,
+								"dept_id" : "52"
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Class 400: Equipment",
+				"value" : 0,
+				"children" : [
+					{	"name" : "ELECTRICAL LIGHTING COMMUNICATION   0410",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 824.85,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 619050.2999999999,
+								"dept_id" : "4"
+							},
+							{	"name" : "Police Department",
+								"value" : 2433.0,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 15322.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 6883.89,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 540.4,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 2465.19,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 14220.67,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 722714.7000000001,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 11658.49,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 798.98,
+								"dept_id" : "26"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 2273.73,
+								"dept_id" : "36"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 139.98,
+								"dept_id" : "52"
+							},
+							{	"name" : "Sheriff",
+								"value" : 3872.0,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 915.0,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "JANITORIAL AND LAUNDRY              0418",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 240.0,
+								"dept_id" : "1"
+							},
+							{	"name" : "Police Department",
+								"value" : 1429.0,
+								"dept_id" : "11"
+							},
+							{	"name" : "Fire Department",
+								"value" : 4650.0,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 5947.05,
+								"dept_id" : "14"
+							},
+							{	"name" : "Public Property",
+								"value" : 829.95,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 38591.78,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 493.78,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 255.68,
+								"dept_id" : "25"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 87.11,
+								"dept_id" : "36"
+							}
+
+						]
+					},
+					{	"name" : "OFFICE EQUIPMENT                    0420",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 2975.89,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 9078.29,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 129.99,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 581.31,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 56649.60000000001,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 84228.86,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 14160.33,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 17028.79,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 23796.33,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 3716.09,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 21274.59,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 781.71,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 5531.75,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 11806.0,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 21516.510000000002,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 709.0,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 34362.3,
+								"dept_id" : "36"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 474.95,
+								"dept_id" : "40"
+							},
+							{	"name" : "Law Department",
+								"value" : 185.27,
+								"dept_id" : "44"
+							},
+							{	"name" : "Office Of The Inspector General",
+								"value" : 2095.96,
+								"dept_id" : "48"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 649.98,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 2215.7,
+								"dept_id" : "52"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 16628.0,
+								"dept_id" : "59"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 3529.0,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 3197.6499999999996,
+								"dept_id" : "69"
+							}
+
+						]
+					},
+					{	"name" : "PLUMBING/AIR CONDITIONING/SPACE HTG 0423",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 737.5999999999999,
+								"dept_id" : "1"
+							},
+							{	"name" : "Police Department",
+								"value" : 1284.17,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 6309.620000000001,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 3418.499999999999,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 29936.589999999993,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 50327.32000000001,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 108955.35999999999,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 9168.439999999999,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 1350.9,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 1275.3,
+								"dept_id" : "26"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 199.94,
+								"dept_id" : "52"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 6355.8,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "COMPUTER EQUIPMENT & PERIPHERALS    0427",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 4714.02,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 2330954.1499999994,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 692.0,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 2062.0,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 9943.35,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 6900.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 3181.69,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 105512.01000000001,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 2903.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 35922.0,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 199525.16,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 14671.61,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 496.0,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 7811.32,
+								"dept_id" : "35"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 42019.0,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 12.0,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Treasurer",
+								"value" : 714.0,
+								"dept_id" : "40"
+							},
+							{	"name" : "Law Department",
+								"value" : 270.5,
+								"dept_id" : "44"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 169.95,
+								"dept_id" : "51"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 24303.199999999997,
+								"dept_id" : "52"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 190702.16,
+								"dept_id" : "59"
+							},
+							{	"name" : "Board Of Revision Of Taxes",
+								"value" : 4140.0,
+								"dept_id" : "63"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 9862.0,
+								"dept_id" : "68"
+							},
+							{	"name" : "District Attorney's Office",
+								"value" : 2729.0,
+								"dept_id" : "69"
+							},
+							{	"name" : "Sheriff",
+								"value" : 4128.0,
+								"dept_id" : "70"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 1124.0,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "FURNITURE AND FURNISHINGS           0430",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "City Council",
+								"value" : 59661.62,
+								"dept_id" : "1"
+							},
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 30256.96,
+								"dept_id" : "4"
+							},
+							{	"name" : "Mayor's Office",
+								"value" : 457.42,
+								"dept_id" : "5"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 9586.93,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 284648.75,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 73886.37999999999,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 362744.76000000007,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 30476.919999999995,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 137161.32,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 36226.6,
+								"dept_id" : "20"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 5031.799999999999,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 85313.84999999999,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 72206.92,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 6806.0,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 68279.82,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 1626.26,
+								"dept_id" : "31"
+							},
+							{	"name" : "Revenue Department",
+								"value" : 3016.08,
+								"dept_id" : "36"
+							},
+							{	"name" : "Procurement Department",
+								"value" : 235.0,
+								"dept_id" : "38"
+							},
+							{	"name" : "City Representative Office",
+								"value" : 4390.0,
+								"dept_id" : "41"
+							},
+							{	"name" : "Law Department",
+								"value" : 751.44,
+								"dept_id" : "44"
+							},
+							{	"name" : "Free Library Of Phila.",
+								"value" : 12311.88,
+								"dept_id" : "52"
+							},
+							{	"name" : "Office Of Arts & Culture",
+								"value" : 1886.06,
+								"dept_id" : "58"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 5051.92,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "FIRE FIGHTING AND EMERGENCY         0412",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 1565.54,
+								"dept_id" : "4"
+							},
+							{	"name" : "Police Department",
+								"value" : 265036.35,
+								"dept_id" : "11"
+							},
+							{	"name" : "Fire Department",
+								"value" : 197468.1,
+								"dept_id" : "13"
+							},
+							{	"name" : "Prisons",
+								"value" : 10032.0,
+								"dept_id" : "23"
+							}
+
+						]
+					},
+					{	"name" : "PRECISION, PHOTOGRAPHIC AND ARTIST  0424",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Innovation & Technology",
+								"value" : 2966.0,
+								"dept_id" : "4"
+							},
+							{	"name" : "Managing Director's Office",
+								"value" : 28618.74,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 21129.870000000003,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 13513.98,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 28236.870000000003,
+								"dept_id" : "13"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 249.18,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 8511.14,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 219.98,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 4761.95,
+								"dept_id" : "26"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 20.36,
+								"dept_id" : "31"
+							},
+							{	"name" : "City Planning Commission",
+								"value" : 239.09,
+								"dept_id" : "51"
+							},
+							{	"name" : "Office Of Property Assessments",
+								"value" : 2519.1,
+								"dept_id" : "59"
+							},
+							{	"name" : "City Commissioners",
+								"value" : 742.52,
+								"dept_id" : "73"
+							}
+
+						]
+					},
+					{	"name" : "AGRICULTURAL AND BOTANICAL          0401",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 22582.96,
+								"dept_id" : "10"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 3487.0,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 5362.61,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Human Services",
+								"value" : 393.0,
+								"dept_id" : "22"
+							},
+							{	"name" : "Prisons",
+								"value" : 9760.0,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 679.0,
+								"dept_id" : "24"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 1556.0,
+								"dept_id" : "26"
+							}
+
+						]
+					},
+					{	"name" : "BAKESHOP, DINING ROOM AND KITCHEN   0403",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 3521.0,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 89.0,
+								"dept_id" : "11"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 2359.76,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 3077.92,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 3912.0,
+								"dept_id" : "20"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 32279.799999999996,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 105.49,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 79.0,
+								"dept_id" : "26"
+							}
+
+						]
+					},
+					{	"name" : "GENERAL EQUIPMENT AND MACHINERY     0411",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Managing Director's Office",
+								"value" : 2988.0,
+								"dept_id" : "10"
+							},
+							{	"name" : "Police Department",
+								"value" : 861.0,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 39457.5,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 3764.0,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 97740.29000000001,
+								"dept_id" : "16"
+							},
+							{	"name" : "Public Property",
+								"value" : 1333.27,
+								"dept_id" : "20"
+							},
+							{	"name" : "Prisons",
+								"value" : 12299.029999999999,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 351.0,
+								"dept_id" : "24"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 88546.13999999998,
+								"dept_id" : "25"
+							},
+							{	"name" : "Department Of Licenses & Inspections",
+								"value" : 2106.0,
+								"dept_id" : "26"
+							}
+
+						]
+					},
+					{	"name" : "CONSTRUCTION, DREDGING, CONVEYING   0405",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 2205.0,
+								"dept_id" : "11"
+							}
+
+						]
+					},
+					{	"name" : "HOSPITAL AND LABORATORY             0417",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 8894.94,
+								"dept_id" : "11"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 68400.53,
+								"dept_id" : "14"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 3765.0,
+								"dept_id" : "31"
+							}
+
+						]
+					},
+					{	"name" : "PRINTING AND BINDING                0425",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 869.51,
+								"dept_id" : "11"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 69800.0,
+								"dept_id" : "31"
+							},
+							{	"name" : "Register Of Wills",
+								"value" : 23.0,
+								"dept_id" : "68"
+							}
+
+						]
+					},
+					{	"name" : "RECREATIONAL AND EDUCATIONAL        0426",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 14673.9,
+								"dept_id" : "11"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 13346.61,
+								"dept_id" : "14"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 9567.88,
+								"dept_id" : "16"
+							}
+
+						]
+					},
+					{	"name" : "VEHICLES -- MOTOR AND MOTORLESS     0428",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Police Department",
+								"value" : 176.7,
+								"dept_id" : "11"
+							},
+							{	"name" : "Streets Department",
+								"value" : 137172.12,
+								"dept_id" : "12"
+							},
+							{	"name" : "Fire Department",
+								"value" : 1418.4,
+								"dept_id" : "13"
+							},
+							{	"name" : "Fleet Management",
+								"value" : 3624190.6000000047,
+								"dept_id" : "25"
+							}
+
+						]
+					},
+					{	"name" : "EQUIPMENT CONTROL                   0400",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Streets Department",
+								"value" : 1285.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Department Of Public Health",
+								"value" : 23015.489999999998,
+								"dept_id" : "14"
+							}
+
+						]
+					},
+					{	"name" : "POWER TOOLS AND HAND TOOLS          0422",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Public Property",
+								"value" : 3007.0,
+								"dept_id" : "20"
+							}
+
+						]
+					},
+					{	"name" : "OTHER EQUIPMENT (NOC)               0499",
+						"sub_object_code" : "400",
+						"value" : 0,
+						"children" : [
+							{	"name" : "First Judicial District",
+								"value" : 790574.9999999999,
+								"dept_id" : "84"
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Class 500: Contributions, Indemnities, and Taxes",
+				"value" : 0,
+				"children" : [
+					{	"name" : "MERITORIOUS AWARDS                  0504",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Mayor's Office",
+								"value" : 181500.0,
+								"dept_id" : "5"
+							},
+							{	"name" : "Department Of Records",
+								"value" : 600.0,
+								"dept_id" : "31"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 28000.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "CONTRIBUTIONS-ED & NON-PROF REC ORG 0505",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Streets Department",
+								"value" : 48171.0,
+								"dept_id" : "12"
+							},
+							{	"name" : "Recreation Department",
+								"value" : 2830000.0,
+								"dept_id" : "16"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 74339207.0,
+								"dept_id" : "35"
+							},
+							{	"name" : "Office Of Arts & Culture",
+								"value" : 230688.0,
+								"dept_id" : "58"
+							}
+
+						]
+					},
+					{	"name" : "CONTRIBUTIONS-GOV & NON-PROF NOT ED 0517",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Atwater Kent Museum",
+								"value" : 50000.0,
+								"dept_id" : "18"
+							},
+							{	"name" : "Art Museum",
+								"value" : 2300000.0,
+								"dept_id" : "34"
+							},
+							{	"name" : "Department Of Finance",
+								"value" : 2393861.25,
+								"dept_id" : "35"
+							},
+							{	"name" : "Office Of Arts & Culture",
+								"value" : 1840000.0,
+								"dept_id" : "58"
+							}
+
+						]
+					},
+					{	"name" : "PRISONER INMATE & RESIDENT PAYMENTS 0506",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Prisons",
+								"value" : 1238741.6,
+								"dept_id" : "23"
+							},
+							{	"name" : "Office Of Supportive Housing",
+								"value" : 32341.64,
+								"dept_id" : "24"
+							}
+
+						]
+					},
+					{	"name" : "CONTRIBUTIONS CONTROL               0500",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Records",
+								"value" : 657.2800000000001,
+								"dept_id" : "31"
+							}
+
+						]
+					},
+					{	"name" : "REFUNDS                             0512",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 382.2199999999999,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "AUTO - MOTOR VEHICLE                0561",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 4967271.4799999995,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "HIGHWAY FALLS                       0563",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 1331730.82,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "SIDEWALK FALLS                      0564",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 3939408.53,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "OTHER NON-AUTOMOTIVE                0569",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 5037086.1899999995,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "AUTO -- MOTOR VEHICLE               0571",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 1000.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "DEMOLITION DAMAGES                  0572",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 136617.6,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "OTHER NON-AUTOMOTIVE                0579",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 24071.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "CIVIL RIGHTS                        0581",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 14333893.129999999,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "CONTRACT CLAIMS-CITY BREACH CONTRCT 0583",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 2056481.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "EMPLOYEE CLAIMS -- NOT WORKMAN COMP 0584",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 11165.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "TOWING -- ABANDONED VEHICLES        0586",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 4750.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "CIVIL RIGHTS - ATTORNEY FEES        0588",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 313812.6,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "OTHER MISCELLANEOUS CLAIMS          0589",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 45337.41,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "AUTO-MOTOR VEHICLE-NON-PUNITIVE DAM 0561",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 7690.16,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "HIGHWAY FALLS- NON-PUNITIVE DAMAGES 0563",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 50.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "AUTO-MOTOR VEHICLE/NON-PUNITIVE DAM 0571",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 244460.24000000005,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "FIRE DAMAGE - NON-PUNITIVE DAMAGES  0573",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 1000.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "POTHOLE DAMAGES-NON-PUNITIVE DAMAGE 0578",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 18109.559999999998,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "OTHER NON-AUTOMOTIVE/NON-PUNITIVE   0579",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 106970.54,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "CIVIL RIGHTS - NON-PUNITIVE DAMAGES 0581",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 11479.93,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "EMPLOYEE CLAIMS-NONWORKCOMP/NON-PUN 0584",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 8578.98,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "TOWING - OTHER NON-PUNITIVE DAMAGES 0587",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 2760.0,
+								"dept_id" : "35"
+							}
+
+						]
+					},
+					{	"name" : "OTHER MISC CLAIMS - NON-PUNITIVE    0589",
+						"sub_object_code" : "500",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Finance",
+								"value" : 3116.9,
+								"dept_id" : "35"
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Class 800: Payments to Other Funds",
+				"value" : 0,
+				"children" : [
+					{	"name" : "PAYMENTS TO GRANTS REVENUE FUND     0812",
+						"sub_object_code" : "800",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Office Of Housing",
+								"value" : 154044.31,
+								"dept_id" : "6"
+							}
+
+						]
+					},
+					{	"name" : "PAYMENTS TO CAPITAL PROJECTS FUND   0804",
+						"sub_object_code" : "800",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Department Of Public Health",
+								"value" : 500000.0,
+								"dept_id" : "14"
+							},
+							{	"name" : "Public Property",
+								"value" : 529000.0,
+								"dept_id" : "20"
+							}
+
+						]
+					}
+
+				]
+			},
+			{	"name" : "Class 700: Debt Service",
+				"value" : 0,
+				"children" : [
+					{	"name" : "INTEREST ON CITY DEBT -- LONG-TERM  0701",
+						"sub_object_code" : "700",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Sinking Fund Commission",
+								"value" : 65897662.779999994,
+								"dept_id" : "37"
+							}
+
+						]
+					},
+					{	"name" : "PRINCIPAL PAYMENTS ON CITY DEBT-L/T 0702",
+						"sub_object_code" : "700",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Sinking Fund Commission",
+								"value" : 40745000.0,
+								"dept_id" : "37"
+							}
+
+						]
+					},
+					{	"name" : "INTEREST ON CITY DEBT - SHORT-TERM  0703",
+						"sub_object_code" : "700",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Sinking Fund Commission",
+								"value" : 1937978.14,
+								"dept_id" : "37"
+							}
+
+						]
+					},
+					{	"name" : "SINKING FUND RESERVE PAYMENT        0704",
+						"sub_object_code" : "700",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Sinking Fund Commission",
+								"value" : 1166204.22,
+								"dept_id" : "37"
+							}
+
+						]
+					},
+					{	"name" : "COMMITMENT FEE EXPENSE              0705",
+						"sub_object_code" : "700",
+						"value" : 0,
+						"children" : [
+							{	"name" : "Sinking Fund Commission",
+								"value" : 1587131.2599999998,
+								"dept_id" : "37"
+							}
+
+						]
+					}
+
+				]
+			}
+
+		]
+	}

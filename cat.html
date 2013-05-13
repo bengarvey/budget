@@ -224,20 +224,16 @@
           transitioning;
 
       // We used to use this when using d3's standard color schemes
-      //var color = d3.scale.category20();
+      // var color = d3.scale.category20();
 
+      
       var color = function(id) {
-
+         
           c = {'100' : '#B2C2D1', '200' : '#F76e4a', '300' : '#efdfbb', '400' : '#335d6b', '500' : '#7aBa7f', '600' : '#5CADFF', '700' : '#88898b', '800' : '#FF99CC', '900' : '#99FFCC', '1000' : '#FF8F1F'};
           rc = c[id];
-          
-          // Give it a d3 color in case we missed something
-          if (rc == "") {
-            rc = d3.scale.category20();
-          }
-
           return rc;
       }
+      
 
       var x = d3.scale.linear()
           .domain([0, width])
@@ -281,7 +277,7 @@
 	$("[rel=tooltip]").tooltip();
       });
 
-      d3.json("data/all.json", function(root) {
+      d3.json("data/all-by-cat.json", function(root) {
 
         initialize(root);
         accumulate(root);
@@ -443,11 +439,11 @@
               .attr("height", function(d) { return y(d.y + d.dy) - y(d.y); })
           .style("fill", function(d) { 
                   if (d.parent.parent != null) {
-                      if (d.parent.parent.parent != null) {
-                        return color(d.parent.name.substr(6,3));
+                      if (d.parent.parent.parent != null) { 
+                        return color(d.parent.sub_object_code);
                       }
                       else {
-                        return color(d.name.substr(6, 3));
+                        return color(d.sub_object_code);
                       }
                   }
                   else {
@@ -458,6 +454,10 @@
           rect.attr("onclick", "javascript:getRecords(evt)"); 
           rect.attr("onmouseover", "javascript:showInfo(evt)");
           rect.attr("onmouseout", "javascript:hideInfo(evt)");
+        }
+
+        function dept_id(d) {
+          return d.dept_id;
         }
 
         function name(d) {
@@ -489,10 +489,11 @@
       n = evt.target.__data__;
       p = n.parent;
       g = p.parent;
+      // console.log(evt);
 
       // Check to make sure we'll get back something.
       if(evt.target.__data__.children == undefined) {
-        updateResults(g.dept_id, p.sub_object_code, n.name,0);
+        updateResults(n.dept_id, p.sub_object_code, p.name,0);
       }
     }
 
@@ -523,7 +524,7 @@
         url = "jrequest.rb?dept=" + dept + "&cat=" + cat + "&desc=" + desc + "&page=" + page;
       }
 
-      //alert(url);
+     // console.log(url);
      // $('#debug').html(url);
 
       if (page == 0) { 
@@ -670,8 +671,8 @@
       <li><a href="http://brettmandel.com/content/contact-brett-mandel">Contact</a></li>
     </ul>
     <ul class="nav nav-tabs">
-      <li class="active"><a href="index.html">By Department</a></li>
-      <li><a href="cat.html">By Category (New)</a></li>
+      <li><a href="index.html">By Department</a></li>
+      <li class="active"><a href="cat.html">By Category (New)</a></li>
     </ul>
     <p id="chart"></p>
     <form class="form-search" onsubmit="return(updateResults('','','', 0));" id="searchform" action="#" name="searchform">
