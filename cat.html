@@ -578,12 +578,7 @@
 
                 if (page == 0) {
                   for (k in keys) {
-      
-                     if (keys[k].match(/Employee.*/) || keys[k].match(/Pay Class Title/)) {
-                     }
-                     else {
-                        khtml += "<th>" + keys[k] + "</th>";
-                     }
+                    khtml += "<th>" + keys[k] + "</th>";
                   }
 
                   khtml = "<thead><tr>" + khtml + "</tr></thead>";  
@@ -599,9 +594,6 @@
                       rowhtml += "<td>" + accounting.formatMoney(data[d][keys[k]], "") + "</td>";
                       //rowhtml += "<td>" + data[d][keys[k]] + "</td>";
                     }
-                    else if (keys[k].match(/Employee.*/) || keys[k].match(/Pay Class Title/)) {
-
-                    }  
                     else {
                       rowhtml += "<td>" + data[d][keys[k]] + "</td>";
                     }
@@ -631,7 +623,7 @@
                      
                         $("#resultstable").tablesorter({ 
                             headers: { 
-                                4: { 
+                                8: { 
                                     sorter:'money' 
                                 } 
                             } 

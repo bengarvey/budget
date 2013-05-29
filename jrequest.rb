@@ -79,7 +79,7 @@ class Request
   end
 
   def prepare()
-    statement = "select department_title as Department, year as \"Fiscal Year\", sub_object_title as \"City Sub-Object Title\", sub_object_code as \"City Sub-Object Code\", vendor_name as \"Vendor\", transaction_description as \"Transaction Description\", first_name as \"Employee First Name\", last_name as \"Employee Last Name\", middle_initial as \"Employee Middle initial\", pay_class_title as \"Pay Class Title\", total_expenditures as \"Total Expenditures\" from expenses where (first_name = '-' or last_name = '-') AND ("
+    statement = "select department_title as Department, year as \"Fiscal Year\", sub_object_title as \"City Sub-Object Title\", sub_object_code as \"City Sub-Object Code\", vendor_name as \"Vendor\", transaction_description as \"Transaction Description\", first_name as \"Employee First Name\", last_name as \"Employee Last Name\", middle_initial as \"Employee Middle initial\", pay_class_title as \"Pay Class Title\", total_expenditures as \"Total Expenditures\" from expenses where ("
 
     @params.each do |key, value|
       value.each do |x|
