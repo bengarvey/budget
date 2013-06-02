@@ -108,7 +108,7 @@ class Request
 
 
     statement = statement.chomp(' and ') + ")"
-    statement += " order by total_expenditures DESC LIMIT #{@page*502}, 502"
+    statement += " order by total_expenditures DESC LIMIT #{Mysql.escape_string((@page*502).to_s)}, 502"
     #puts statement + "<br>"
     return statement
 
